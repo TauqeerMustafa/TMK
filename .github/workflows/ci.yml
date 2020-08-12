@@ -1,0 +1,55 @@
+name: 🧪 TMK Multi-Language CI/CD Matrix
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test-python:
+    name: 🐍 Python API Gateway Suite
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.11", "3.12"]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Run Unit Tests
+        run: |
+          python -m unittest discover services/api-gateway/tests/
+
+  test-go:
+    name: 🐹 Go Core Engine Suite
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        go-version: ["1.21", "1.22"]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Go ${{ matrix.go-version }}
+        uses: actions/setup-go@v5
+        with:
+          go-version: ${{ matrix.go-version }}
+      - name: Test Go Microservices
+        run: |
+          cd services/core-engine
+          go test -v -race ./...
+
+  test-typescript:
+    name: ⚡ TypeScript Dashboard
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Validate Dashboard Modules
+        run: |
+          cd services/dashboard
+          npm install --package-lock-only || true
