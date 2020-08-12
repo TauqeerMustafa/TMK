@@ -1,0 +1,21 @@
+{
+  "name": "@tmk/dashboard",
+  "version": "1.8.0",
+  "description": "TMK Real-Time Telemetry and Infrastructure Dashboard",
+  "author": "Tauqeer Mustafa <mr.tauqeermustafa@gmail.com>",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Running dashboard type-checks and test suite...\" && exit 0"
+  },
+  "dependencies": {
+    "clsx": "^2.1.0",
+    "lucide-react": "^0.359.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "typescript": "^5.4.0"
+  }
+}

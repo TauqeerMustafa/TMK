@@ -1,0 +1,12 @@
+FROM golang:1.22-alpine as builder
+
+WORKDIR /app
+COPY services/core-engine/go.mod ./
+RUN go mod download
+
+COPY services/core-engine/ .
+RUN CGO_ENABLED=0 GOOS=linux go build -o /bin/core-engine ./cmd/server
+
+FROM alpine:3.19
+COPY --from=builder /bin/core-engine /bin/core-engine
+ENTRYPOINT ["/bin/core-engine"]

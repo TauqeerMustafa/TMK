@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  core-engine:
+    build:
+      context: .
+      dockerfile: Dockerfile.worker
+    container_name: tmk-core-engine
+    restart: unless-stopped
+    environment:
+      - PORT=8080
+      - CONCURRENCY=16
+    networks:
+      - tmk-net
+
+  api-gateway:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    container_name: tmk-api-gateway
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      - WORKERS=4
+      - MASTER_SECRET=production_secret_key_tmk_00192847
+    depends_on:
+      - core-engine
+    networks:
+      - tmk-net
+
+networks:
+  tmk-net:
+    driver: bridge
