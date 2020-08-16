@@ -1,1 +1,1 @@
-[2020-08-16 20:10:20 UTC] feat(go/metrics): add atomic completed and failed task counters
+[2020-08-16 13:54:27 UTC] devops(docker): configure multi-stage build for Go core engine runtime
