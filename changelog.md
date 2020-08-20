@@ -1,1 +1,1 @@
-[2020-08-20 16:50:53 UTC] test(py/security): add test suite for signature tampering and replay attacks
+[2020-08-20 15:54:14 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
