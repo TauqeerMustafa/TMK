@@ -1,1 +1,1 @@
-[2020-08-25 17:41:55 UTC] feat(go/metrics): add atomic completed and failed task counters
+[2020-08-25 11:51:05 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
