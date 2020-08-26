@@ -1,1 +1,1 @@
-[2020-08-26 15:40:45 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2020-08-26 13:00:42 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
