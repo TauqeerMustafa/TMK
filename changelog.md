@@ -1,1 +1,1 @@
-[2020-08-26 21:40:12 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
+[2020-08-26 21:50:09 UTC] feat(go/types): export Task and Handler function signatures
