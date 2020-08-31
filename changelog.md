@@ -1,1 +1,1 @@
-[2020-08-31 16:12:36 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
+[2020-08-31 13:03:46 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
