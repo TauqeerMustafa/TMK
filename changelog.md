@@ -1,1 +1,1 @@
-[2020-09-03 13:06:58 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
+[2020-09-03 11:03:14 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
