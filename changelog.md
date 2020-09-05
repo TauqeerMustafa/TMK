@@ -1,1 +1,1 @@
-[2020-09-05 13:05:57 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
+[2020-09-05 21:40:59 UTC] fix(go/pool): handle graceful shutdown when task queue is full
