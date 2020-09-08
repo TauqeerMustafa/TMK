@@ -1,1 +1,1 @@
-[2020-09-08 19:59:33 UTC] perf(go/stream): benchmark fan-out event routing latency
+[2020-09-08 18:34:58 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
