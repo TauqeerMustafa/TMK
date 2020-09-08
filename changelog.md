@@ -1,1 +1,1 @@
-[2020-09-08 12:34:03 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
+[2020-09-08 12:08:46 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
