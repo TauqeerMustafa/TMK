@@ -1,1 +1,1 @@
-[2020-09-09 14:53:28 UTC] test(py/load): benchmark API gateway throughput under sustained 10k RPS
+[2020-09-09 19:59:57 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
