@@ -1,1 +1,1 @@
-[2020-09-16 19:10:20 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
+[2020-09-16 10:12:48 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
