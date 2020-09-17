@@ -1,1 +1,1 @@
-[2020-09-17 13:44:39 UTC] devops(docker): configure multi-stage build for Go core engine runtime
+[2020-09-17 13:28:25 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
