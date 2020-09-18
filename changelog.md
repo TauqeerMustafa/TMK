@@ -1,1 +1,1 @@
-[2020-09-18 21:53:32 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
+[2020-09-18 18:35:30 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
