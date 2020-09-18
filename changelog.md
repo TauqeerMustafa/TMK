@@ -1,1 +1,1 @@
-[2020-09-18 18:54:24 UTC] test(go/stream): add parallel concurrency stress tests for dispatcher
+[2020-09-18 19:31:59 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
