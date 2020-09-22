@@ -1,1 +1,1 @@
-[2020-09-22 14:52:59 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
+[2020-09-22 21:24:07 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
