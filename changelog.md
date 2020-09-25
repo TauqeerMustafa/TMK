@@ -1,1 +1,1 @@
-[2020-09-25 18:36:08 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
+[2020-09-25 10:01:50 UTC] feat(go/types): export Task and Handler function signatures
