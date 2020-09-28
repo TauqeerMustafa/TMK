@@ -1,1 +1,1 @@
-[2020-09-28 18:35:57 UTC] devops(docker): configure multi-stage build for Go core engine runtime
+[2020-09-28 17:09:36 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
