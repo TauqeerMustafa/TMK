@@ -1,1 +1,1 @@
-[2020-09-29 12:22:47 UTC] test(go/stream): add parallel concurrency stress tests for dispatcher
+[2020-09-29 15:30:35 UTC] devops(docker): configure multi-stage build for Go core engine runtime
