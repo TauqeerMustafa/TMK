@@ -1,1 +1,1 @@
-[2020-09-30 15:19:53 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
+[2020-09-30 15:56:01 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
