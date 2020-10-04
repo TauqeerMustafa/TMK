@@ -1,1 +1,1 @@
-[2020-10-04 12:18:33 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
+[2020-10-04 17:05:53 UTC] devops(docker): configure multi-stage build for Go core engine runtime
