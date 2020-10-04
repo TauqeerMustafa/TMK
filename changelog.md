@@ -1,1 +1,1 @@
-[2020-10-04 10:37:06 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
+[2020-10-04 12:20:53 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
