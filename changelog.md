@@ -1,1 +1,1 @@
-[2020-10-09 16:19:18 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
+[2020-10-09 16:38:14 UTC] chore(deps): update security patches across container base images
