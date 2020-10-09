@@ -1,1 +1,1 @@
-[2020-10-09 21:59:20 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
+[2020-10-09 14:45:59 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
