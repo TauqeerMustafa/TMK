@@ -1,1 +1,1 @@
-[2020-10-13 12:18:40 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
+[2020-10-13 19:12:23 UTC] perf(go/pool): optimize task scheduling mutex contention
