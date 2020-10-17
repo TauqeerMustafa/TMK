@@ -1,1 +1,1 @@
-[2020-10-17 20:25:38 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
+[2020-10-17 20:56:51 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
