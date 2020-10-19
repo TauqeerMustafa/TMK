@@ -1,1 +1,1 @@
-[2020-10-19 12:29:45 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
+[2020-10-19 18:56:20 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
