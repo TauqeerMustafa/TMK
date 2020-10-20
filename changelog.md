@@ -1,1 +1,1 @@
-[2020-10-20 11:00:53 UTC] fix(go/pool): handle graceful shutdown when task queue is full
+[2020-10-20 18:03:15 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
