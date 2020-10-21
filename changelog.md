@@ -1,1 +1,1 @@
-[2020-10-21 19:22:50 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
+[2020-10-21 20:07:59 UTC] test(py/security): add test suite for signature tampering and replay attacks
