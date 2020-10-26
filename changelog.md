@@ -1,1 +1,1 @@
-[2020-10-26 13:37:26 UTC] feat(go/metrics): add atomic completed and failed task counters
+[2020-10-26 15:17:11 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
