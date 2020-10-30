@@ -1,1 +1,1 @@
-[2020-10-30 19:35:42 UTC] feat(go/metrics): add atomic completed and failed task counters
+[2020-10-30 15:42:39 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
