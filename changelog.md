@@ -1,1 +1,1 @@
-[2020-11-01 09:29:25 UTC] docs(api): document HMAC signature verification headers and example curl
+[2020-11-01 17:58:50 UTC] docs(api): document HMAC signature verification headers and example curl
