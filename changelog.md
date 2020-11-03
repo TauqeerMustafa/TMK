@@ -1,1 +1,1 @@
-[2020-11-03 18:05:04 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
+[2020-11-03 15:54:46 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
