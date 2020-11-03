@@ -1,1 +1,1 @@
-[2020-11-03 14:50:09 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
+[2020-11-03 15:12:15 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
