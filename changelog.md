@@ -1,1 +1,1 @@
-[2020-11-04 10:01:16 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
+[2020-11-04 09:35:09 UTC] feat(ts/types): define immutable telemetry metric and health status types
