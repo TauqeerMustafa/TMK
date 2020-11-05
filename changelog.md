@@ -1,1 +1,1 @@
-[2020-11-05 10:51:55 UTC] test(py/load): benchmark API gateway throughput under sustained 10k RPS
+[2020-11-05 11:39:01 UTC] fix(go/pool): handle graceful shutdown when task queue is full
