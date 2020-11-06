@@ -1,1 +1,1 @@
-[2020-11-06 15:04:43 UTC] devops(ci): configure multi-language matrix workflow for Go, Python, and Node
+[2020-11-06 13:17:39 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
