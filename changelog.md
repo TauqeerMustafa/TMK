@@ -1,1 +1,1 @@
-[2020-11-09 10:04:33 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
+[2020-11-09 10:22:26 UTC] test(py/load): benchmark API gateway throughput under sustained 10k RPS
