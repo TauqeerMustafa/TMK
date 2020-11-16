@@ -1,1 +1,1 @@
-[2020-11-16 09:59:27 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
+[2020-11-16 16:54:02 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
