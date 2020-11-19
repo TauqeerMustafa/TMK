@@ -1,1 +1,1 @@
-[2020-11-19 19:19:24 UTC] perf(go/stream): benchmark fan-out event routing latency
+[2020-11-19 18:30:06 UTC] perf(go/stream): benchmark fan-out event routing latency
