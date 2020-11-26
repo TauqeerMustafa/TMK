@@ -1,1 +1,1 @@
-[2020-11-26 12:19:13 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
+[2020-11-26 11:54:29 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
