@@ -1,1 +1,1 @@
-[2020-11-26 21:25:55 UTC] perf(go/stream): benchmark fan-out event routing latency
+[2020-11-26 12:19:13 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
