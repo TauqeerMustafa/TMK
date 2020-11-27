@@ -1,1 +1,1 @@
-[2020-11-27 09:29:23 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
+[2020-11-27 17:44:31 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
