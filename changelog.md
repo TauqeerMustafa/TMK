@@ -1,1 +1,1 @@
-[2020-11-28 21:17:18 UTC] perf(go/stream): benchmark fan-out event routing latency
+[2020-11-28 20:17:07 UTC] feat(go/metrics): add atomic completed and failed task counters
