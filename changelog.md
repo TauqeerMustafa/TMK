@@ -1,1 +1,1 @@
-[2020-12-08 10:34:05 UTC] fix(ts/client): add exponential backoff on stream disconnection
+[2020-12-08 14:30:50 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
