@@ -1,1 +1,1 @@
-[2020-12-11 09:04:20 UTC] chore(deps): update security patches across container base images
+[2020-12-11 20:08:32 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
