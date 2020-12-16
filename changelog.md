@@ -1,1 +1,1 @@
-[2020-12-16 16:08:24 UTC] fix(ts/client): add exponential backoff on stream disconnection
+[2020-12-16 15:58:41 UTC] feat(ts/components): create MetricCard with dynamic status indicators
