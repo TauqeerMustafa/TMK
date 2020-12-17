@@ -1,1 +1,1 @@
-[2020-12-17 11:39:31 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2020-12-17 19:55:07 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
