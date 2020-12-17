@@ -1,1 +1,1 @@
-[2020-12-17 15:12:30 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
+[2020-12-17 10:34:08 UTC] chore(deps): update security patches across container base images
