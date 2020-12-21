@@ -1,1 +1,1 @@
-[2020-12-21 14:26:09 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
+[2020-12-21 16:58:00 UTC] test(py/load): benchmark API gateway throughput under sustained 10k RPS
