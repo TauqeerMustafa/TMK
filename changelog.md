@@ -1,1 +1,1 @@
-[2020-12-22 12:02:41 UTC] chore(deps): update security patches across container base images
+[2020-12-22 11:58:40 UTC] fix(ts/client): add exponential backoff on stream disconnection
