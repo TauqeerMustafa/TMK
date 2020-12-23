@@ -1,1 +1,1 @@
-[2020-12-23 14:37:51 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
+[2020-12-23 19:14:08 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
