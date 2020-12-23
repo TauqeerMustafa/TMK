@@ -1,1 +1,1 @@
-[2020-12-23 16:26:24 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
+[2020-12-23 15:53:47 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
