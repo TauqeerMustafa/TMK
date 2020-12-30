@@ -1,1 +1,1 @@
-[2020-12-30 16:04:31 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
+[2020-12-30 13:35:55 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
