@@ -1,1 +1,1 @@
-[2020-12-30 19:49:20 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
+[2020-12-30 16:32:41 UTC] fix(ts/client): add exponential backoff on stream disconnection
