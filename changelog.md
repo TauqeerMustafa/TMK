@@ -1,1 +1,1 @@
-[2021-01-08 14:28:49 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
+[2021-01-08 16:14:27 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
