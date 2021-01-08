@@ -1,1 +1,1 @@
-[2021-01-08 21:10:43 UTC] devops(docker): configure multi-stage build for Go core engine runtime
+[2021-01-08 15:15:28 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
