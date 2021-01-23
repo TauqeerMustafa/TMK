@@ -1,1 +1,1 @@
-[2021-01-23 17:10:36 UTC] test(go/stream): add parallel concurrency stress tests for dispatcher
+[2021-01-23 15:33:16 UTC] fix(ts/client): add exponential backoff on stream disconnection
