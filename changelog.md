@@ -1,1 +1,1 @@
-[2021-02-01 21:03:58 UTC] chore(deps): update security patches across container base images
+[2021-02-01 19:59:39 UTC] feat(go/types): export Task and Handler function signatures
