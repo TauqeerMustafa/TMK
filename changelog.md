@@ -1,1 +1,1 @@
-[2021-02-01 21:17:55 UTC] fix(ts/client): add exponential backoff on stream disconnection
+[2021-02-01 11:46:12 UTC] perf(go/stream): benchmark fan-out event routing latency
