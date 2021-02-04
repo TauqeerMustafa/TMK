@@ -1,1 +1,1 @@
-[2021-02-04 11:25:20 UTC] feat(ts/types): define immutable telemetry metric and health status types
+[2021-02-04 15:11:59 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
