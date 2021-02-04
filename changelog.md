@@ -1,1 +1,1 @@
-[2021-02-04 18:01:00 UTC] fix(ts/client): add exponential backoff on stream disconnection
+[2021-02-04 12:06:11 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
