@@ -1,1 +1,1 @@
-[2021-02-10 17:26:24 UTC] test(py/load): benchmark API gateway throughput under sustained 10k RPS
+[2021-02-10 16:28:55 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
