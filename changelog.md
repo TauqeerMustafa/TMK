@@ -1,1 +1,1 @@
-[2021-02-10 11:57:21 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
+[2021-02-10 21:06:17 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
