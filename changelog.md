@@ -1,1 +1,1 @@
-[2021-02-11 20:07:14 UTC] chore(deps): update security patches across container base images
+[2021-02-11 10:26:54 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
