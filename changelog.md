@@ -1,1 +1,1 @@
-[2021-02-25 14:30:45 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
+[2021-02-25 15:02:50 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
