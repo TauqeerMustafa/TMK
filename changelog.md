@@ -1,1 +1,1 @@
-[2021-03-11 09:00:58 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
+[2021-03-11 17:56:43 UTC] test(py/security): add test suite for signature tampering and replay attacks
