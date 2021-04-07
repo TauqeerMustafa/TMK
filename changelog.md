@@ -1,1 +1,1 @@
-[2021-04-07 09:06:14 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
+[2021-04-07 13:55:42 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
