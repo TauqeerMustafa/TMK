@@ -1,1 +1,1 @@
-[2021-04-12 10:53:19 UTC] feat(ts/types): define immutable telemetry metric and health status types
+[2021-04-12 19:12:40 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
