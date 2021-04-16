@@ -1,1 +1,1 @@
-[2021-04-16 09:57:45 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
+[2021-04-16 11:04:30 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
