@@ -1,1 +1,1 @@
-[2021-04-23 16:44:17 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
+[2021-04-23 20:02:14 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
