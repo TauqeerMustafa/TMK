@@ -1,1 +1,1 @@
-[2021-04-30 14:05:03 UTC] feat(go/types): export Task and Handler function signatures
+[2021-04-30 15:19:36 UTC] feat(go/types): export Task and Handler function signatures
