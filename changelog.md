@@ -1,1 +1,1 @@
-[2021-05-03 12:06:35 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
+[2021-05-03 11:27:36 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
