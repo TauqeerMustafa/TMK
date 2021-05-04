@@ -1,1 +1,1 @@
-[2021-05-04 14:00:51 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
+[2021-05-04 16:49:16 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
