@@ -1,1 +1,1 @@
-[2021-05-07 10:15:24 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
+[2021-05-07 11:01:32 UTC] fix(ts/client): add exponential backoff on stream disconnection
