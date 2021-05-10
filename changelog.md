@@ -1,1 +1,1 @@
-[2021-05-10 09:47:48 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
+[2021-05-10 12:11:24 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
