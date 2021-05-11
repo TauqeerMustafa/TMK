@@ -1,1 +1,1 @@
-[2021-05-11 09:38:13 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
+[2021-05-11 09:15:56 UTC] docs(api): document HMAC signature verification headers and example curl
