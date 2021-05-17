@@ -1,1 +1,1 @@
-[2021-05-17 12:02:00 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
+[2021-05-17 15:29:35 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
