@@ -1,1 +1,1 @@
-[2021-05-18 12:26:41 UTC] test(py/load): benchmark API gateway throughput under sustained 10k RPS
+[2021-05-18 21:01:29 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
