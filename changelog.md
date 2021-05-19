@@ -1,1 +1,1 @@
-[2021-05-19 13:17:17 UTC] test(py/load): benchmark API gateway throughput under sustained 10k RPS
+[2021-05-19 12:03:03 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
