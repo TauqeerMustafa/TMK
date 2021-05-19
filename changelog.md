@@ -1,1 +1,1 @@
-[2021-05-19 20:08:26 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
+[2021-05-19 20:06:44 UTC] chore(deps): update security patches across container base images
