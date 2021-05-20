@@ -1,1 +1,1 @@
-[2021-05-20 17:52:25 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
+[2021-05-20 21:25:35 UTC] fix(go/pool): handle graceful shutdown when task queue is full
