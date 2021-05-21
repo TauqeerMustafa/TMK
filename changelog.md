@@ -1,1 +1,1 @@
-[2021-05-21 19:16:36 UTC] devops(docker): configure multi-stage build for Go core engine runtime
+[2021-05-21 15:29:31 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
