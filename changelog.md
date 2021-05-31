@@ -1,1 +1,1 @@
-[2021-05-31 19:38:19 UTC] fix(ts/client): add exponential backoff on stream disconnection
+[2021-05-31 10:20:52 UTC] test(py/load): benchmark API gateway throughput under sustained 10k RPS
