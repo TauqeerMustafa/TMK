@@ -1,1 +1,1 @@
-[2021-05-31 10:40:37 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
+[2021-05-31 17:29:26 UTC] feat(go/metrics): add atomic completed and failed task counters
