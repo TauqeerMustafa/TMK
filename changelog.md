@@ -1,1 +1,1 @@
-[2021-06-03 19:08:20 UTC] devops(ci): configure multi-language matrix workflow for Go, Python, and Node
+[2021-06-03 14:32:51 UTC] docs(api): document HMAC signature verification headers and example curl
