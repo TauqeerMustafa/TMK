@@ -1,1 +1,1 @@
-[2021-06-07 19:55:13 UTC] docs(api): document HMAC signature verification headers and example curl
+[2021-06-07 18:44:57 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
