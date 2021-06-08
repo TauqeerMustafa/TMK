@@ -1,1 +1,1 @@
-[2021-06-08 16:13:55 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
+[2021-06-08 19:39:10 UTC] feat(go/metrics): add atomic completed and failed task counters
