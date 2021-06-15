@@ -1,1 +1,1 @@
-[2021-06-15 14:36:33 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
+[2021-06-15 18:00:36 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
