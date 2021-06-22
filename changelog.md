@@ -1,1 +1,1 @@
-[2021-06-22 20:18:19 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
+[2021-06-22 18:11:04 UTC] docs(api): document HMAC signature verification headers and example curl
