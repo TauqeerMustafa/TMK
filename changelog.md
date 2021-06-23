@@ -1,1 +1,1 @@
-[2021-06-23 21:24:48 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
+[2021-06-23 10:51:15 UTC] chore(deps): update security patches across container base images
