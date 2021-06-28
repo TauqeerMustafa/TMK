@@ -1,1 +1,1 @@
-[2021-06-28 14:39:03 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
+[2021-06-28 16:13:20 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
