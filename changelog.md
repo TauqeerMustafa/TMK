@@ -1,1 +1,1 @@
-[2021-07-02 09:48:47 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
+[2021-07-02 16:57:41 UTC] fix(go/pool): handle graceful shutdown when task queue is full
