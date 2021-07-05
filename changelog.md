@@ -1,1 +1,1 @@
-[2021-07-05 13:49:01 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
+[2021-07-05 12:22:10 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
