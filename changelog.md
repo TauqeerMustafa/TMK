@@ -1,1 +1,1 @@
-[2021-07-10 11:05:43 UTC] perf(go/stream): benchmark fan-out event routing latency
+[2021-07-10 09:04:49 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
