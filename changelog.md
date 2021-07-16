@@ -1,1 +1,1 @@
-[2021-07-16 21:17:07 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
+[2021-07-16 17:05:05 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
