@@ -1,1 +1,1 @@
-[2021-07-21 21:50:46 UTC] fix(go/pool): handle graceful shutdown when task queue is full
+[2021-07-21 10:33:27 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
