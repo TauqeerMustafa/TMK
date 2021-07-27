@@ -1,1 +1,1 @@
-[2021-07-27 18:55:45 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
+[2021-07-27 18:18:59 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
