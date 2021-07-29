@@ -1,1 +1,1 @@
-[2021-07-29 15:29:46 UTC] test(py/security): add test suite for signature tampering and replay attacks
+[2021-07-29 14:03:51 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
