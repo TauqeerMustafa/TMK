@@ -1,1 +1,1 @@
-[2021-08-01 17:45:31 UTC] fix(ts/client): add exponential backoff on stream disconnection
+[2021-08-01 16:03:47 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
