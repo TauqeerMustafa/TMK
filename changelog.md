@@ -1,1 +1,1 @@
-[2021-08-02 16:49:02 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
+[2021-08-02 12:38:47 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
