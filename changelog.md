@@ -1,1 +1,1 @@
-[2021-08-05 09:19:39 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
+[2021-08-05 11:31:47 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
