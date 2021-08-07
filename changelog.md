@@ -1,1 +1,1 @@
-[2021-08-07 19:11:04 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
+[2021-08-07 15:22:58 UTC] chore(deps): update security patches across container base images
