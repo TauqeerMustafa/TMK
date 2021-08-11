@@ -1,1 +1,1 @@
-[2021-08-11 12:40:32 UTC] fix(ts/client): add exponential backoff on stream disconnection
+[2021-08-11 09:40:56 UTC] fix(ts/client): add exponential backoff on stream disconnection
