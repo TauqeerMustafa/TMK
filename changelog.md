@@ -1,1 +1,1 @@
-[2021-08-20 12:19:23 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
+[2021-08-20 09:28:18 UTC] perf(go/stream): benchmark fan-out event routing latency
