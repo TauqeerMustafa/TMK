@@ -1,1 +1,1 @@
-[2021-08-24 13:20:33 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
+[2021-08-24 19:58:23 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
