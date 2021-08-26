@@ -1,1 +1,1 @@
-[2021-08-26 15:55:47 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
+[2021-08-26 17:06:52 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
