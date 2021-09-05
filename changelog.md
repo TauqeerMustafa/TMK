@@ -1,1 +1,1 @@
-[2021-09-05 19:37:36 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
+[2021-09-05 19:24:14 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
