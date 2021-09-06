@@ -1,1 +1,1 @@
-[2021-09-06 11:28:34 UTC] test(py/load): benchmark API gateway throughput under sustained 10k RPS
+[2021-09-06 10:19:20 UTC] perf(go/stream): benchmark fan-out event routing latency
