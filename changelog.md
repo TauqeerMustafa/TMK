@@ -1,1 +1,1 @@
-[2021-09-09 20:49:15 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
+[2021-09-09 20:12:46 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
