@@ -1,1 +1,1 @@
-[2021-09-13 19:53:11 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
+[2021-09-13 20:14:45 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
