@@ -1,1 +1,1 @@
-[2021-09-16 11:39:17 UTC] fix(ts/client): add exponential backoff on stream disconnection
+[2021-09-16 09:40:47 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
