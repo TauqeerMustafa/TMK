@@ -1,1 +1,1 @@
-[2021-09-16 11:58:04 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
+[2021-09-16 12:34:06 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
