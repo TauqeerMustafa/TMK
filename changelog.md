@@ -1,1 +1,1 @@
-[2021-09-21 20:30:42 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
+[2021-09-21 13:06:47 UTC] docs(api): document HMAC signature verification headers and example curl
