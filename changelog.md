@@ -1,1 +1,1 @@
-[2021-09-23 21:53:07 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
+[2021-09-23 16:20:36 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
