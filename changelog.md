@@ -1,1 +1,1 @@
-[2021-09-24 09:35:28 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
+[2021-09-24 21:36:32 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
