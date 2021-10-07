@@ -1,1 +1,1 @@
-[2021-10-07 19:53:50 UTC] refactor(py/cache): optimize OrderedDict eviction policy under high concurrency
+[2021-10-07 19:16:59 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
