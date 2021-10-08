@@ -1,1 +1,1 @@
-[2021-10-08 14:26:55 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
+[2021-10-08 18:19:50 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
