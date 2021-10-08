@@ -1,1 +1,1 @@
-[2021-10-08 17:20:24 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
+[2021-10-08 13:03:27 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
