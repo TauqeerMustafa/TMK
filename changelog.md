@@ -1,1 +1,1 @@
-[2021-10-13 09:17:06 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
+[2021-10-13 19:31:07 UTC] fix(ts/client): add exponential backoff on stream disconnection
