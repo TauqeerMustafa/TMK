@@ -1,1 +1,1 @@
-[2021-10-16 16:44:00 UTC] fix(ts/client): add exponential backoff on stream disconnection
+[2021-10-17 17:41:23 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
