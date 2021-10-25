@@ -1,1 +1,1 @@
-[2021-10-25 09:33:40 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2021-10-25 10:47:15 UTC] fix(ts/client): add exponential backoff on stream disconnection
