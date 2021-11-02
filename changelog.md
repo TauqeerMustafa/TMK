@@ -1,1 +1,1 @@
-[2021-11-02 14:26:22 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
+[2021-11-02 20:46:10 UTC] test(py/load): benchmark API gateway throughput under sustained 10k RPS
