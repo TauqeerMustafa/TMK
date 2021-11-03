@@ -1,1 +1,1 @@
-[2021-11-03 09:02:00 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
+[2021-11-03 14:11:34 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
