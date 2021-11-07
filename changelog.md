@@ -1,1 +1,1 @@
-[2021-11-07 09:29:58 UTC] devops(ci): configure multi-language matrix workflow for Go, Python, and Node
+[2021-11-07 10:02:21 UTC] fix(ts/client): add exponential backoff on stream disconnection
