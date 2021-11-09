@@ -1,1 +1,1 @@
-[2021-11-09 17:06:21 UTC] fix(go/pool): handle graceful shutdown when task queue is full
+[2021-11-09 18:31:07 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
