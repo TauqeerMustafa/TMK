@@ -1,1 +1,1 @@
-[2021-11-12 15:16:13 UTC] fix(go/pool): handle graceful shutdown when task queue is full
+[2021-11-12 10:24:30 UTC] devops(docker): configure multi-stage build for Go core engine runtime
