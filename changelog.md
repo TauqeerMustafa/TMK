@@ -1,1 +1,1 @@
-[2021-11-16 13:57:14 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
+[2021-11-16 10:25:43 UTC] docs(api): document HMAC signature verification headers and example curl
