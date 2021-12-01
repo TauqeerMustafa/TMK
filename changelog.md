@@ -1,1 +1,1 @@
-[2021-12-01 18:18:38 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
+[2021-12-01 16:20:08 UTC] perf(go/stream): benchmark fan-out event routing latency
