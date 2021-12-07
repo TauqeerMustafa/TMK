@@ -1,1 +1,1 @@
-[2021-12-07 20:43:16 UTC] feat(go/metrics): add atomic completed and failed task counters
+[2021-12-07 21:13:30 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
