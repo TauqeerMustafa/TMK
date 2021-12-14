@@ -1,1 +1,1 @@
-[2021-12-14 17:56:52 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
+[2021-12-14 15:11:50 UTC] docs(api): document HMAC signature verification headers and example curl
