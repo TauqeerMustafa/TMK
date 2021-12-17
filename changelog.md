@@ -1,1 +1,1 @@
-[2021-12-17 17:20:46 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
+[2021-12-17 12:48:59 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
