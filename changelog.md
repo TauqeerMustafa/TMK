@@ -1,1 +1,1 @@
-[2021-12-20 17:19:12 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
+[2021-12-20 14:25:19 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
