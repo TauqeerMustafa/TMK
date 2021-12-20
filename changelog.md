@@ -1,1 +1,1 @@
-[2021-12-20 15:29:28 UTC] devops(docker): configure multi-stage build for Go core engine runtime
+[2021-12-20 17:19:12 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
