@@ -1,1 +1,1 @@
-[2021-12-23 19:19:46 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
+[2021-12-23 12:15:37 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
