@@ -1,1 +1,1 @@
-[2021-12-23 18:21:16 UTC] chore(deps): update security patches across container base images
+[2021-12-23 15:42:22 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
