@@ -1,1 +1,1 @@
-[2021-12-28 09:14:57 UTC] devops(docker): configure multi-stage build for Go core engine runtime
+[2021-12-28 19:32:17 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
