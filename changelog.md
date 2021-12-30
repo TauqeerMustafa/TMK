@@ -1,1 +1,1 @@
-[2021-12-30 16:37:32 UTC] feat(go/metrics): add atomic completed and failed task counters
+[2021-12-30 19:00:34 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
