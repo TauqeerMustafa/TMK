@@ -1,1 +1,1 @@
-[2022-01-05 16:21:43 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
+[2022-01-05 16:38:03 UTC] test(py/load): benchmark API gateway throughput under sustained 10k RPS
