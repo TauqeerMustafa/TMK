@@ -1,1 +1,1 @@
-[2022-01-10 10:46:59 UTC] chore(deps): update security patches across container base images
+[2022-01-10 11:56:54 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
