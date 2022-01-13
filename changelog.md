@@ -1,1 +1,1 @@
-[2022-01-13 19:36:53 UTC] perf(go/stream): benchmark fan-out event routing latency
+[2022-01-13 14:37:15 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
