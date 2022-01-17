@@ -1,1 +1,1 @@
-[2022-01-15 14:22:38 UTC] devops(docker): configure multi-stage build for Go core engine runtime
+[2022-01-17 09:54:42 UTC] feat(ts/types): define immutable telemetry metric and health status types
