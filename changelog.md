@@ -1,1 +1,1 @@
-[2022-01-21 15:09:26 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
+[2022-01-21 18:14:13 UTC] perf(go/stream): benchmark fan-out event routing latency
