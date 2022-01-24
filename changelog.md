@@ -1,1 +1,1 @@
-[2022-01-20 09:29:04 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
+[2022-01-24 15:51:49 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
