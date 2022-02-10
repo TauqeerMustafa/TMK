@@ -1,1 +1,1 @@
-[2022-02-10 10:26:55 UTC] test(py/security): add test suite for signature tampering and replay attacks
+[2022-02-10 12:52:38 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
