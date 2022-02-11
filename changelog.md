@@ -1,1 +1,1 @@
-[2022-02-11 18:53:41 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
+[2022-02-11 09:57:27 UTC] perf(go/stream): benchmark fan-out event routing latency
