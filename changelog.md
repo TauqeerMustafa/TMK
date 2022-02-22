@@ -1,1 +1,1 @@
-[2022-02-22 10:59:21 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2022-02-22 21:07:21 UTC] docs(api): document HMAC signature verification headers and example curl
