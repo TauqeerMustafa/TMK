@@ -1,1 +1,1 @@
-[2022-03-15 11:36:10 UTC] perf(go/stream): benchmark fan-out event routing latency
+[2022-03-15 20:59:19 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
