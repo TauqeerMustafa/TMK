@@ -1,1 +1,1 @@
-[2022-03-30 20:02:20 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
+[2022-03-30 12:46:18 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
