@@ -1,1 +1,1 @@
-[2022-04-10 17:40:16 UTC] chore(deps): update security patches across container base images
+[2022-04-10 17:49:32 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
