@@ -1,1 +1,1 @@
-[2022-04-14 16:11:08 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
+[2022-04-14 15:35:57 UTC] perf(go/stream): benchmark fan-out event routing latency
