@@ -1,1 +1,1 @@
-[2022-04-14 16:18:04 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
+[2022-04-14 20:03:06 UTC] feat(go/metrics): add atomic completed and failed task counters
