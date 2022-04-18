@@ -1,1 +1,1 @@
-[2022-04-18 18:00:46 UTC] fix(ts/client): add exponential backoff on stream disconnection
+[2022-04-18 10:34:17 UTC] chore(deps): update security patches across container base images
