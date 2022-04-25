@@ -1,1 +1,1 @@
-[2022-04-25 13:40:07 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
+[2022-04-25 17:40:54 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
