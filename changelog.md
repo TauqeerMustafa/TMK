@@ -1,1 +1,1 @@
-[2022-04-25 11:15:58 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
+[2022-04-25 10:26:02 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
