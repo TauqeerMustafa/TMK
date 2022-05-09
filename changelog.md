@@ -1,1 +1,1 @@
-[2022-05-09 19:38:49 UTC] devops(docker): configure multi-stage build for Go core engine runtime
+[2022-05-09 13:44:15 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
