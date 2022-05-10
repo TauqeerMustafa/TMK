@@ -1,1 +1,1 @@
-[2022-05-10 10:49:27 UTC] feat(go/metrics): add atomic completed and failed task counters
+[2022-05-10 11:15:52 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
