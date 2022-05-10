@@ -1,1 +1,1 @@
-[2022-05-10 10:36:54 UTC] fix(ts/client): add exponential backoff on stream disconnection
+[2022-05-10 21:54:27 UTC] fix(go/pool): handle graceful shutdown when task queue is full
