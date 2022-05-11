@@ -1,1 +1,1 @@
-[2022-05-11 17:14:16 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
+[2022-05-11 09:14:27 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
