@@ -1,1 +1,1 @@
-[2022-05-17 14:24:45 UTC] feat(go/types): export Task and Handler function signatures
+[2022-05-17 13:41:05 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
