@@ -1,1 +1,1 @@
-[2022-05-18 21:04:56 UTC] docs(api): document HMAC signature verification headers and example curl
+[2022-05-18 16:14:14 UTC] test(py/security): add test suite for signature tampering and replay attacks
