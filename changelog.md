@@ -1,1 +1,1 @@
-[2022-05-26 21:59:38 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
+[2022-05-26 10:29:25 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
