@@ -1,1 +1,1 @@
-[2022-05-30 15:43:23 UTC] test(py/load): benchmark API gateway throughput under sustained 10k RPS
+[2022-05-30 10:19:49 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
