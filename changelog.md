@@ -1,1 +1,1 @@
-[2022-06-07 09:56:59 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
+[2022-06-07 14:16:43 UTC] test(py/security): add test suite for signature tampering and replay attacks
