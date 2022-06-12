@@ -1,1 +1,1 @@
-[2022-06-12 14:05:23 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
+[2022-06-12 11:50:50 UTC] feat(go/metrics): add atomic completed and failed task counters
