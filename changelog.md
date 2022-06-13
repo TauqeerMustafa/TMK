@@ -1,1 +1,1 @@
-[2022-06-13 17:16:54 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2022-06-13 10:14:32 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
