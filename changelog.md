@@ -1,1 +1,1 @@
-[2022-07-14 09:54:11 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
+[2022-07-14 14:26:40 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
