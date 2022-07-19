@@ -1,1 +1,1 @@
-[2022-07-19 13:10:33 UTC] fix(go/pool): handle graceful shutdown when task queue is full
+[2022-07-19 20:59:06 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
