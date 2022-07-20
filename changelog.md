@@ -1,1 +1,1 @@
-[2022-07-19 12:09:56 UTC] perf(go/stream): benchmark fan-out event routing latency
+[2022-07-20 16:34:00 UTC] fix(go/pool): handle graceful shutdown when task queue is full
