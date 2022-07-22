@@ -1,1 +1,1 @@
-[2022-07-22 19:11:23 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
+[2022-07-22 15:37:15 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
