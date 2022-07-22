@@ -1,1 +1,1 @@
-[2022-07-22 11:56:50 UTC] test(py/security): add test suite for signature tampering and replay attacks
+[2022-07-22 19:11:23 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
