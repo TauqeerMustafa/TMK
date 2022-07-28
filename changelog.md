@@ -1,1 +1,1 @@
-[2022-07-28 10:58:12 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
+[2022-07-28 16:35:45 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
