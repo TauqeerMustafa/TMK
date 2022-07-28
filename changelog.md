@@ -1,1 +1,1 @@
-[2022-07-28 14:32:54 UTC] devops(ci): configure multi-language matrix workflow for Go, Python, and Node
+[2022-07-28 10:16:47 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
