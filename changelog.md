@@ -1,1 +1,1 @@
-[2022-08-04 14:29:37 UTC] devops(ci): configure multi-language matrix workflow for Go, Python, and Node
+[2022-08-04 15:22:32 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
