@@ -1,1 +1,1 @@
-[2022-08-11 19:06:06 UTC] test(py/security): add test suite for signature tampering and replay attacks
+[2022-08-11 17:03:40 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
