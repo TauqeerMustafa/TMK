@@ -1,1 +1,1 @@
-[2022-08-12 10:40:58 UTC] test(go/stream): add parallel concurrency stress tests for dispatcher
+[2022-08-12 14:47:21 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
