@@ -1,1 +1,1 @@
-[2022-08-17 14:33:18 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
+[2022-08-17 12:09:27 UTC] devops(docker): configure multi-stage build for Go core engine runtime
