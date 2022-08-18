@@ -1,1 +1,1 @@
-[2022-08-18 18:08:28 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
+[2022-08-18 14:28:17 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
