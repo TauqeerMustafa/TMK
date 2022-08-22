@@ -1,1 +1,1 @@
-[2022-08-22 18:49:30 UTC] chore(deps): update security patches across container base images
+[2022-08-22 17:20:27 UTC] feat(ts/types): define immutable telemetry metric and health status types
