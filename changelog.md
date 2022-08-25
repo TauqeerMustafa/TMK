@@ -1,1 +1,1 @@
-[2022-08-24 14:25:52 UTC] devops(docker): configure multi-stage build for Go core engine runtime
+[2022-08-25 10:54:32 UTC] chore(deps): update security patches across container base images
