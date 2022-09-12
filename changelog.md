@@ -1,1 +1,1 @@
-[2022-09-12 10:17:03 UTC] feat(go/types): export Task and Handler function signatures
+[2022-09-12 18:08:40 UTC] feat(go/metrics): add atomic completed and failed task counters
