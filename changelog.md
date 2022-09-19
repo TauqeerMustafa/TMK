@@ -1,1 +1,1 @@
-[2022-09-19 16:38:17 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
+[2022-09-19 16:45:24 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
