@@ -1,1 +1,1 @@
-[2022-09-20 15:45:03 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
+[2022-09-20 14:43:02 UTC] feat(go/types): export Task and Handler function signatures
