@@ -1,1 +1,1 @@
-[2022-09-21 11:19:56 UTC] perf(go/stream): benchmark fan-out event routing latency
+[2022-09-21 21:24:24 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
