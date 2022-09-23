@@ -1,1 +1,1 @@
-[2022-09-22 13:51:53 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
+[2022-09-23 14:46:35 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
