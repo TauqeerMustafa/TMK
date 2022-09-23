@@ -1,1 +1,1 @@
-[2022-09-23 11:54:44 UTC] fix(go/pool): handle graceful shutdown when task queue is full
+[2022-09-23 14:50:40 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
