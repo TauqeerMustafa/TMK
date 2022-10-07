@@ -1,1 +1,1 @@
-[2022-10-07 18:03:46 UTC] docs(api): document HMAC signature verification headers and example curl
+[2022-10-07 15:08:16 UTC] devops(docker): configure multi-stage build for Go core engine runtime
