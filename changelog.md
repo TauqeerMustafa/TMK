@@ -1,1 +1,1 @@
-[2022-10-13 19:00:39 UTC] devops(docker): configure multi-stage build for Go core engine runtime
+[2022-10-13 20:10:14 UTC] fix(ts/client): add exponential backoff on stream disconnection
