@@ -1,1 +1,1 @@
-[2022-10-13 21:52:59 UTC] test(py/load): benchmark API gateway throughput under sustained 10k RPS
+[2022-10-13 14:13:40 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
