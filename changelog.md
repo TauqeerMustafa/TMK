@@ -1,1 +1,1 @@
-[2022-10-13 20:31:07 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
+[2022-10-13 10:44:27 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
