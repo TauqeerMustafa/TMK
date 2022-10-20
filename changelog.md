@@ -1,1 +1,1 @@
-[2022-10-20 16:10:36 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
+[2022-10-20 19:57:56 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
