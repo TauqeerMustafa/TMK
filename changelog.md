@@ -1,1 +1,1 @@
-[2022-10-28 17:09:39 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
+[2022-10-28 18:01:59 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
