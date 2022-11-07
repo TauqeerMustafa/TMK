@@ -1,1 +1,1 @@
-[2022-11-07 15:53:59 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
+[2022-11-07 17:17:26 UTC] test(go/stream): add parallel concurrency stress tests for dispatcher
