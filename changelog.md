@@ -1,1 +1,1 @@
-[2022-11-10 21:05:40 UTC] docs(api): document HMAC signature verification headers and example curl
+[2022-11-10 15:47:51 UTC] fix(ts/client): add exponential backoff on stream disconnection
