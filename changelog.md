@@ -1,1 +1,1 @@
-[2022-11-11 12:59:40 UTC] test(py/cache): add unit tests for TTL boundary conditions and cache misses
+[2022-11-11 19:51:05 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
