@@ -1,1 +1,1 @@
-[2022-11-18 21:49:17 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
+[2022-11-18 12:34:34 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
