@@ -1,1 +1,1 @@
-[2022-11-30 15:09:38 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
+[2022-11-30 15:30:51 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
