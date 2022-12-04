@@ -1,1 +1,1 @@
-[2022-12-04 19:44:26 UTC] test(go/stream): add parallel concurrency stress tests for dispatcher
+[2022-12-04 12:28:56 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
