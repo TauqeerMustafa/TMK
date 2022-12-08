@@ -1,1 +1,1 @@
-[2022-12-08 21:21:33 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
+[2022-12-08 17:04:02 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
