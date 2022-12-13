@@ -1,1 +1,1 @@
-[2022-12-13 10:21:01 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
+[2022-12-13 09:58:44 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
