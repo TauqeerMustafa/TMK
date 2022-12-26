@@ -1,1 +1,1 @@
-[2022-12-26 12:26:20 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
+[2022-12-26 10:52:51 UTC] feat(ts/types): define immutable telemetry metric and health status types
