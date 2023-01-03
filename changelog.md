@@ -1,1 +1,1 @@
-[2023-01-03 19:04:01 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
+[2023-01-03 09:13:10 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
