@@ -1,1 +1,1 @@
-[2023-01-04 12:59:50 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2023-01-04 17:56:48 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
