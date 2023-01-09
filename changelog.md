@@ -1,1 +1,1 @@
-[2023-01-09 15:33:21 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
+[2023-01-09 14:45:03 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
