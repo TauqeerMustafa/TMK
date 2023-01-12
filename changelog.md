@@ -1,1 +1,1 @@
-[2023-01-12 09:25:58 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
+[2023-01-12 15:53:07 UTC] perf(go/stream): benchmark fan-out event routing latency
