@@ -1,1 +1,1 @@
-[2023-01-16 17:20:06 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2023-01-16 16:25:11 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
