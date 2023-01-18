@@ -1,1 +1,1 @@
-[2023-01-18 17:56:08 UTC] chore(deps): update security patches across container base images
+[2023-01-18 09:58:02 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
