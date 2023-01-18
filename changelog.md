@@ -1,1 +1,1 @@
-[2023-01-18 09:44:35 UTC] fix(ts/client): add exponential backoff on stream disconnection
+[2023-01-18 09:53:39 UTC] feat(go/types): export Task and Handler function signatures
