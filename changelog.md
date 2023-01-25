@@ -1,1 +1,1 @@
-[2023-01-25 16:12:59 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
+[2023-01-25 17:23:14 UTC] feat(go/metrics): add atomic completed and failed task counters
