@@ -1,1 +1,1 @@
-[2023-01-31 10:56:00 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
+[2023-01-31 19:33:09 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
