@@ -1,1 +1,1 @@
-[2023-01-31 09:45:56 UTC] docs(api): document HMAC signature verification headers and example curl
+[2023-01-31 18:02:28 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
