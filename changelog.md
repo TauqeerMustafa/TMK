@@ -1,1 +1,1 @@
-[2023-02-07 21:24:46 UTC] test(py/load): benchmark API gateway throughput under sustained 10k RPS
+[2023-02-07 21:10:31 UTC] docs(api): document HMAC signature verification headers and example curl
