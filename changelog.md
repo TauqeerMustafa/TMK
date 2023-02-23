@@ -1,1 +1,1 @@
-[2023-02-23 17:42:11 UTC] chore(deps): update security patches across container base images
+[2023-02-23 09:52:16 UTC] docs(api): document HMAC signature verification headers and example curl
