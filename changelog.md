@@ -1,1 +1,1 @@
-[2023-03-06 12:56:24 UTC] feat(ts/components): create MetricCard with dynamic status indicators
+[2023-03-06 21:58:38 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
