@@ -1,1 +1,1 @@
-[2023-03-13 11:17:17 UTC] perf(go/stream): benchmark fan-out event routing latency
+[2023-03-13 10:42:15 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
