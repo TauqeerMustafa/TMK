@@ -1,1 +1,1 @@
-[2023-03-14 11:18:30 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
+[2023-03-14 14:28:18 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
