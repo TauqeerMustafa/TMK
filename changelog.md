@@ -1,1 +1,1 @@
-[2023-03-18 21:33:03 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
+[2023-03-18 18:56:53 UTC] feat(go/types): export Task and Handler function signatures
