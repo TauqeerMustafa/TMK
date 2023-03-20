@@ -1,1 +1,1 @@
-[2023-03-20 14:15:26 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
+[2023-03-20 09:12:03 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
