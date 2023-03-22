@@ -1,1 +1,1 @@
-[2023-03-22 19:42:52 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
+[2023-03-22 15:53:51 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
