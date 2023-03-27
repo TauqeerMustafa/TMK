@@ -1,1 +1,1 @@
-[2023-03-27 11:04:57 UTC] test(go/stream): add parallel concurrency stress tests for dispatcher
+[2023-03-27 11:09:54 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
