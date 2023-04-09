@@ -1,1 +1,1 @@
-[2023-04-09 14:09:43 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
+[2023-04-09 15:17:04 UTC] devops(docker): configure multi-stage build for Go core engine runtime
