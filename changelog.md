@@ -1,1 +1,1 @@
-[2023-04-17 09:54:07 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
+[2023-04-17 12:22:59 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
