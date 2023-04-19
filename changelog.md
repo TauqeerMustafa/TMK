@@ -1,1 +1,1 @@
-[2023-04-19 17:17:19 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
+[2023-04-19 13:47:28 UTC] docs(api): document HMAC signature verification headers and example curl
