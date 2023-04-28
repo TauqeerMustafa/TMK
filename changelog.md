@@ -1,1 +1,1 @@
-[2023-04-28 20:32:41 UTC] fix(go/pool): handle graceful shutdown when task queue is full
+[2023-04-28 11:46:36 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
