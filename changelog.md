@@ -1,1 +1,1 @@
-[2023-04-28 19:18:05 UTC] fix(go/pool): handle graceful shutdown when task queue is full
+[2023-04-28 20:04:27 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
