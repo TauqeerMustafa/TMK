@@ -1,1 +1,1 @@
-[2023-05-02 16:06:53 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
+[2023-05-02 19:50:17 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
