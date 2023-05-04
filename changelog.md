@@ -1,1 +1,1 @@
-[2023-05-04 09:59:49 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
+[2023-05-04 09:12:37 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
