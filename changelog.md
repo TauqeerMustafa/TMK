@@ -1,1 +1,1 @@
-[2023-05-05 09:40:55 UTC] fix(ts/client): add exponential backoff on stream disconnection
+[2023-05-05 12:57:17 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
