@@ -1,1 +1,1 @@
-[2023-05-05 14:10:41 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
+[2023-05-05 15:24:35 UTC] perf(go/pool): optimize task scheduling mutex contention
