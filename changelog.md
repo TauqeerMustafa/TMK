@@ -1,1 +1,1 @@
-[2023-05-05 10:35:06 UTC] refactor(py/cache): optimize OrderedDict eviction policy under high concurrency
+[2023-05-05 14:10:41 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
