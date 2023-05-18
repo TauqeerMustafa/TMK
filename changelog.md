@@ -1,1 +1,1 @@
-[2023-05-18 09:40:39 UTC] feat(ts/components): create MetricCard with dynamic status indicators
+[2023-05-18 13:18:17 UTC] feat(ts/types): define immutable telemetry metric and health status types
