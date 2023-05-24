@@ -1,1 +1,1 @@
-[2023-05-24 16:13:30 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
+[2023-05-24 19:15:44 UTC] docs(api): document HMAC signature verification headers and example curl
