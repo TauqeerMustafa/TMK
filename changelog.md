@@ -1,1 +1,1 @@
-[2023-06-08 20:17:35 UTC] feat(go/types): export Task and Handler function signatures
+[2023-06-08 16:52:38 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
