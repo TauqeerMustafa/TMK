@@ -1,1 +1,1 @@
-[2023-06-12 21:22:17 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
+[2023-06-12 16:05:57 UTC] feat(go/types): export Task and Handler function signatures
