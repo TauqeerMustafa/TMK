@@ -1,1 +1,1 @@
-[2023-06-15 14:36:28 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
+[2023-06-15 09:37:51 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
