@@ -1,1 +1,1 @@
-[2023-06-16 16:42:22 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
+[2023-06-16 13:20:10 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
