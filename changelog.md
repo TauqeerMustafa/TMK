@@ -1,1 +1,1 @@
-[2023-06-23 16:00:04 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
+[2023-06-23 20:05:25 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
