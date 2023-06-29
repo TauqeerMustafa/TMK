@@ -1,1 +1,1 @@
-[2023-06-29 14:16:40 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
+[2023-06-29 12:52:29 UTC] devops(docker): configure multi-stage build for Go core engine runtime
