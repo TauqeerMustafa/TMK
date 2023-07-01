@@ -1,1 +1,1 @@
-[2023-06-30 09:30:02 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
+[2023-07-01 14:03:44 UTC] feat(ts/types): define immutable telemetry metric and health status types
