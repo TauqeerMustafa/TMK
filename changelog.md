@@ -1,1 +1,1 @@
-[2023-07-06 19:57:13 UTC] test(py/load): benchmark API gateway throughput under sustained 10k RPS
+[2023-07-06 19:37:06 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
