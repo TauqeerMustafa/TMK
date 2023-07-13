@@ -1,1 +1,1 @@
-[2023-07-13 17:15:47 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2023-07-13 13:48:25 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
