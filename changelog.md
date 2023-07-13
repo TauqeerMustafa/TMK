@@ -1,1 +1,1 @@
-[2023-07-13 10:14:38 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
+[2023-07-13 17:58:06 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
