@@ -1,1 +1,1 @@
-[2023-07-18 17:12:27 UTC] devops(ci): configure multi-language matrix workflow for Go, Python, and Node
+[2023-07-18 11:06:09 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
