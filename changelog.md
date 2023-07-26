@@ -1,1 +1,1 @@
-[2023-07-26 18:28:37 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
+[2023-07-26 18:59:46 UTC] fix(ts/client): add exponential backoff on stream disconnection
