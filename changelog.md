@@ -1,1 +1,1 @@
-[2023-07-30 19:43:15 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
+[2023-07-30 12:11:11 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
