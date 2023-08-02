@@ -1,1 +1,1 @@
-[2023-08-02 11:02:41 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
+[2023-08-02 13:10:27 UTC] fix(go/pool): handle graceful shutdown when task queue is full
