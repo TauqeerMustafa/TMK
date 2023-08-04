@@ -1,1 +1,1 @@
-[2023-08-04 21:08:28 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
+[2023-08-04 15:42:30 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
