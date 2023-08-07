@@ -1,1 +1,1 @@
-[2023-08-07 15:38:12 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
+[2023-08-07 19:39:27 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
