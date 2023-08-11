@@ -1,1 +1,1 @@
-[2023-08-11 17:34:42 UTC] chore(deps): update security patches across container base images
+[2023-08-11 13:48:14 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
