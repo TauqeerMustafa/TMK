@@ -1,1 +1,1 @@
-[2023-08-16 19:32:47 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2023-08-16 11:52:23 UTC] perf(go/stream): benchmark fan-out event routing latency
