@@ -1,1 +1,1 @@
-[2023-08-22 19:00:57 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
+[2023-08-22 17:22:59 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
