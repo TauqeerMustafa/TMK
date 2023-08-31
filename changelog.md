@@ -1,1 +1,1 @@
-[2023-08-31 14:01:41 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
+[2023-08-31 12:57:13 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
