@@ -1,1 +1,1 @@
-[2023-09-06 15:29:42 UTC] perf(go/stream): benchmark fan-out event routing latency
+[2023-09-06 16:16:49 UTC] test(go/stream): add parallel concurrency stress tests for dispatcher
