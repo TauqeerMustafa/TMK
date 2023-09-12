@@ -1,1 +1,1 @@
-[2023-09-12 20:00:00 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
+[2023-09-12 20:46:54 UTC] test(go/stream): add parallel concurrency stress tests for dispatcher
