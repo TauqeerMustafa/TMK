@@ -1,1 +1,1 @@
-[2023-09-20 16:09:57 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
+[2023-09-21 21:50:10 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
