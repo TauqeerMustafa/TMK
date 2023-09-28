@@ -1,1 +1,1 @@
-[2023-09-28 14:01:07 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
+[2023-09-28 18:46:13 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
