@@ -1,1 +1,1 @@
-[2023-09-30 10:00:36 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
+[2023-09-30 19:08:55 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
