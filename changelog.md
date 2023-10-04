@@ -1,1 +1,1 @@
-[2023-10-04 15:05:34 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
+[2023-10-04 13:05:46 UTC] feat(ts/components): create MetricCard with dynamic status indicators
