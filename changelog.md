@@ -1,1 +1,1 @@
-[2023-10-10 14:15:46 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
+[2023-10-10 20:11:40 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
