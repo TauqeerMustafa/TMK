@@ -1,1 +1,1 @@
-[2023-10-23 12:25:48 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
+[2023-10-23 10:06:12 UTC] test(py/load): benchmark API gateway throughput under sustained 10k RPS
