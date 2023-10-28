@@ -1,1 +1,1 @@
-[2023-10-28 13:46:44 UTC] devops(docker): configure multi-stage build for Go core engine runtime
+[2023-10-28 09:55:55 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
