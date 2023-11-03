@@ -1,1 +1,1 @@
-[2023-11-03 09:54:24 UTC] perf(go/stream): benchmark fan-out event routing latency
+[2023-11-03 14:30:23 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
