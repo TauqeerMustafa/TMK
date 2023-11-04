@@ -1,1 +1,1 @@
-[2023-11-04 13:30:17 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
+[2023-11-04 14:38:49 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
