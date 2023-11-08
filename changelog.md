@@ -1,1 +1,1 @@
-[2023-11-08 20:21:41 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
+[2023-11-08 21:42:41 UTC] feat(ts/components): create MetricCard with dynamic status indicators
