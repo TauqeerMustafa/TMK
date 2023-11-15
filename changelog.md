@@ -1,1 +1,1 @@
-[2023-11-15 14:58:24 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
+[2023-11-15 12:54:36 UTC] feat(go/types): export Task and Handler function signatures
