@@ -1,1 +1,1 @@
-[2023-11-24 18:53:00 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
+[2023-11-24 15:03:56 UTC] perf(go/stream): benchmark fan-out event routing latency
