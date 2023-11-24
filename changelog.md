@@ -1,1 +1,1 @@
-[2023-11-24 16:02:07 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
+[2023-11-24 10:50:42 UTC] fix(ts/client): add exponential backoff on stream disconnection
