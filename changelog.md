@@ -1,1 +1,1 @@
-[2023-11-29 16:52:16 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
+[2023-11-29 19:52:28 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
