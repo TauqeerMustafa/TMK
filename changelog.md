@@ -1,1 +1,1 @@
-[2023-12-04 13:13:33 UTC] feat(go/types): export Task and Handler function signatures
+[2023-12-04 17:19:44 UTC] perf(go/stream): benchmark fan-out event routing latency
