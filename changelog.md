@@ -1,1 +1,1 @@
-[2023-12-07 11:00:49 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
+[2023-12-07 11:56:28 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
