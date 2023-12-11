@@ -1,1 +1,1 @@
-[2023-12-11 12:47:21 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
+[2023-12-11 09:32:06 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
