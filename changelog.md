@@ -1,1 +1,1 @@
-[2023-12-12 12:49:51 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
+[2023-12-12 20:25:53 UTC] docs(api): document HMAC signature verification headers and example curl
