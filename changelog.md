@@ -1,1 +1,1 @@
-[2023-12-14 16:11:07 UTC] docs(api): document HMAC signature verification headers and example curl
+[2023-12-14 21:07:24 UTC] feat(go/metrics): add atomic completed and failed task counters
