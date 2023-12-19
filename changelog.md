@@ -1,1 +1,1 @@
-[2023-12-19 14:41:01 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
+[2023-12-19 19:37:56 UTC] feat(ts/types): define immutable telemetry metric and health status types
