@@ -1,1 +1,1 @@
-[2023-12-21 13:49:17 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
+[2023-12-21 09:53:24 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
