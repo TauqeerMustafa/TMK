@@ -1,1 +1,1 @@
-[2023-12-27 20:34:14 UTC] fix(ts/client): add exponential backoff on stream disconnection
+[2023-12-27 19:19:08 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
