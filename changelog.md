@@ -1,1 +1,1 @@
-[2023-12-26 19:00:10 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
+[2023-12-27 21:45:21 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
