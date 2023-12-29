@@ -1,1 +1,1 @@
-[2023-12-29 09:41:32 UTC] feat(go/metrics): add atomic completed and failed task counters
+[2023-12-29 09:36:49 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
