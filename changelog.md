@@ -1,1 +1,1 @@
-[2024-01-01 16:29:17 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
+[2024-01-01 20:30:09 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
