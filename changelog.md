@@ -1,1 +1,1 @@
-[2024-01-13 16:30:47 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
+[2024-01-13 13:46:30 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
