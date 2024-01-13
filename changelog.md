@@ -1,1 +1,1 @@
-[2024-01-13 12:15:53 UTC] feat(ts/components): create MetricCard with dynamic status indicators
+[2024-01-13 18:35:39 UTC] docs(api): document HMAC signature verification headers and example curl
