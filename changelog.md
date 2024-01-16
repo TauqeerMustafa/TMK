@@ -1,1 +1,1 @@
-[2024-01-16 12:07:12 UTC] docs(api): document HMAC signature verification headers and example curl
+[2024-01-16 10:20:02 UTC] feat(ts/types): define immutable telemetry metric and health status types
