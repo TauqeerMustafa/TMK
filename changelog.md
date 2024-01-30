@@ -1,1 +1,1 @@
-[2024-01-30 19:40:45 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
+[2024-01-30 19:39:29 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
