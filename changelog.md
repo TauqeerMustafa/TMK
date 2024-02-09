@@ -1,1 +1,1 @@
-[2024-02-09 14:30:06 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
+[2024-02-09 20:44:37 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
