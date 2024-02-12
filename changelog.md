@@ -1,1 +1,1 @@
-[2024-02-12 13:26:21 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
+[2024-02-12 12:05:01 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
