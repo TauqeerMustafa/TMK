@@ -1,1 +1,1 @@
-[2024-02-25 21:32:47 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
+[2024-02-25 21:15:15 UTC] fix(go/pool): handle graceful shutdown when task queue is full
