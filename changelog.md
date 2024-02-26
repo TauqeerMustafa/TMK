@@ -1,1 +1,1 @@
-[2024-02-26 18:19:38 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2024-02-26 15:14:30 UTC] fix(go/pool): handle graceful shutdown when task queue is full
