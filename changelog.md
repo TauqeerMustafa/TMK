@@ -1,1 +1,1 @@
-[2024-02-26 19:04:11 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
+[2024-02-26 19:25:21 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
