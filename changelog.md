@@ -1,1 +1,1 @@
-[2024-03-07 12:26:46 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
+[2024-03-07 18:28:02 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
