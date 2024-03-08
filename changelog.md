@@ -1,1 +1,1 @@
-[2024-03-08 12:24:38 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
+[2024-03-08 20:01:33 UTC] fix(go/pool): handle graceful shutdown when task queue is full
