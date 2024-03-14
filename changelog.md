@@ -1,1 +1,1 @@
-[2024-03-14 19:50:53 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
+[2024-03-14 15:19:35 UTC] test(go/stream): add parallel concurrency stress tests for dispatcher
