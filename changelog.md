@@ -1,1 +1,1 @@
-[2024-03-16 09:39:28 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
+[2024-03-16 13:21:24 UTC] docs(api): document HMAC signature verification headers and example curl
