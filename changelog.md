@@ -1,1 +1,1 @@
-[2024-03-19 15:17:57 UTC] perf(go/stream): benchmark fan-out event routing latency
+[2024-03-19 12:57:41 UTC] docs(api): document HMAC signature verification headers and example curl
