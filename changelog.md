@@ -1,1 +1,1 @@
-[2024-03-22 15:11:41 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
+[2024-03-22 16:41:09 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
