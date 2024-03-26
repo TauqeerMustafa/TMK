@@ -1,1 +1,1 @@
-[2024-03-26 16:57:25 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
+[2024-03-26 14:39:19 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
