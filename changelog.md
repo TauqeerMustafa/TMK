@@ -1,1 +1,1 @@
-[2024-03-28 11:22:44 UTC] devops(docker): configure multi-stage build for Go core engine runtime
+[2024-03-28 09:25:38 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
