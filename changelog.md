@@ -1,1 +1,1 @@
-[2024-04-02 14:57:01 UTC] feat(ts/components): create MetricCard with dynamic status indicators
+[2024-04-02 17:14:03 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
