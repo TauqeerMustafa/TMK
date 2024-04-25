@@ -1,1 +1,1 @@
-[2024-04-25 12:28:56 UTC] refactor(py/cache): optimize OrderedDict eviction policy under high concurrency
+[2024-04-25 20:20:14 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
