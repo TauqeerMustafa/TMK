@@ -1,1 +1,1 @@
-[2024-05-03 14:11:52 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
+[2024-05-03 17:53:56 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
