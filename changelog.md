@@ -1,1 +1,1 @@
-[2024-05-10 18:44:04 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
+[2024-05-10 20:29:56 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
