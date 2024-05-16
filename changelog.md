@@ -1,1 +1,1 @@
-[2024-05-16 12:48:30 UTC] fix(ts/client): add exponential backoff on stream disconnection
+[2024-05-16 17:30:22 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
