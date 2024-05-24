@@ -1,1 +1,1 @@
-[2024-05-24 15:17:01 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
+[2024-05-24 13:34:52 UTC] chore(deps): update security patches across container base images
