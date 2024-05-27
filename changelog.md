@@ -1,1 +1,1 @@
-[2024-05-27 13:43:17 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
+[2024-05-27 12:19:24 UTC] feat(go/types): export Task and Handler function signatures
