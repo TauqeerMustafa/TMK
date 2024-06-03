@@ -1,1 +1,1 @@
-[2024-06-03 09:12:30 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
+[2024-06-03 15:01:57 UTC] feat(ts/types): define immutable telemetry metric and health status types
