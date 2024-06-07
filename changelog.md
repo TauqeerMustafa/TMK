@@ -1,1 +1,1 @@
-[2024-06-07 10:28:26 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
+[2024-06-07 21:59:28 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
