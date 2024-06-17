@@ -1,1 +1,1 @@
-[2024-06-17 12:21:02 UTC] chore(deps): update security patches across container base images
+[2024-06-17 17:48:48 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
