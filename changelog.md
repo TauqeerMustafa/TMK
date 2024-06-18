@@ -1,1 +1,1 @@
-[2024-06-18 15:57:56 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
+[2024-06-18 21:33:45 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
