@@ -1,1 +1,1 @@
-[2024-06-27 20:49:51 UTC] feat(ts/types): define immutable telemetry metric and health status types
+[2024-06-27 18:32:48 UTC] feat(go/types): export Task and Handler function signatures
