@@ -1,1 +1,1 @@
-[2024-07-09 15:03:01 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
+[2024-07-09 11:57:59 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
