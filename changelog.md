@@ -1,1 +1,1 @@
-[2024-07-15 14:59:49 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
+[2024-07-15 12:25:33 UTC] fix(ts/client): add exponential backoff on stream disconnection
