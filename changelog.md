@@ -1,1 +1,1 @@
-[2024-07-22 19:08:34 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
+[2024-07-22 13:43:45 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
