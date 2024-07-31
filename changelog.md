@@ -1,1 +1,1 @@
-[2024-07-31 18:39:17 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
+[2024-07-31 14:19:19 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
