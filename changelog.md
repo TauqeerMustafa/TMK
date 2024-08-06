@@ -1,1 +1,1 @@
-[2024-08-06 17:25:53 UTC] devops(docker): configure multi-stage build for Go core engine runtime
+[2024-08-06 20:58:48 UTC] feat(go/types): export Task and Handler function signatures
