@@ -1,1 +1,1 @@
-[2024-08-07 18:28:17 UTC] feat(go/metrics): add atomic completed and failed task counters
+[2024-08-07 16:17:05 UTC] fix(go/pool): handle graceful shutdown when task queue is full
