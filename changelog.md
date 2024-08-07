@@ -1,1 +1,1 @@
-[2024-08-07 15:44:14 UTC] docs(api): document HMAC signature verification headers and example curl
+[2024-08-07 14:11:19 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
