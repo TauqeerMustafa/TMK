@@ -1,1 +1,1 @@
-[2024-08-07 16:17:05 UTC] fix(go/pool): handle graceful shutdown when task queue is full
+[2024-08-07 10:57:55 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
