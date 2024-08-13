@@ -1,1 +1,1 @@
-[2024-08-13 20:33:24 UTC] feat(go/types): export Task and Handler function signatures
+[2024-08-13 19:38:41 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
