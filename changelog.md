@@ -1,1 +1,1 @@
-[2024-08-24 21:40:50 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
+[2024-08-24 14:45:39 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
