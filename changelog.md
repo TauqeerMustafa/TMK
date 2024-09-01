@@ -1,1 +1,1 @@
-[2024-09-01 15:25:16 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
+[2024-09-01 09:10:30 UTC] feat(ts/types): define immutable telemetry metric and health status types
