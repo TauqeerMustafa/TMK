@@ -1,1 +1,1 @@
-[2024-09-02 15:58:20 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
+[2024-09-02 12:44:28 UTC] test(go/stream): add parallel concurrency stress tests for dispatcher
