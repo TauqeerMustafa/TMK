@@ -1,1 +1,1 @@
-[2024-09-06 20:23:16 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
+[2024-09-06 19:50:57 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
