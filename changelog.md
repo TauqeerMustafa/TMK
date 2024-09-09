@@ -1,1 +1,1 @@
-[2024-09-09 14:24:55 UTC] test(py/security): add test suite for signature tampering and replay attacks
+[2024-09-09 17:10:07 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
