@@ -1,1 +1,1 @@
-[2024-09-13 09:35:06 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
+[2024-09-13 09:58:34 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
