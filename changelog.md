@@ -1,1 +1,1 @@
-[2024-09-13 11:01:23 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2024-09-13 15:38:41 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
