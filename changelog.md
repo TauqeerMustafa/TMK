@@ -1,1 +1,1 @@
-[2024-09-16 18:11:41 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
+[2024-09-16 20:53:06 UTC] test(go/stream): add parallel concurrency stress tests for dispatcher
