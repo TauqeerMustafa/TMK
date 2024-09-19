@@ -1,1 +1,1 @@
-[2024-09-19 10:54:48 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
+[2024-09-19 15:52:14 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
