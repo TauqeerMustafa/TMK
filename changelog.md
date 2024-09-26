@@ -1,1 +1,1 @@
-[2024-09-26 16:26:26 UTC] fix(ts/client): add exponential backoff on stream disconnection
+[2024-09-26 21:39:21 UTC] feat(go/metrics): add atomic completed and failed task counters
