@@ -1,1 +1,1 @@
-[2024-09-29 14:20:54 UTC] docs(api): document HMAC signature verification headers and example curl
+[2024-09-29 11:44:47 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
