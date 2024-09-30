@@ -1,1 +1,1 @@
-[2024-09-30 15:29:13 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2024-09-30 13:31:07 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
