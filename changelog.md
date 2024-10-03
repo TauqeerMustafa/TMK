@@ -1,1 +1,1 @@
-[2024-10-03 19:12:06 UTC] feat(go/types): export Task and Handler function signatures
+[2024-10-03 10:40:19 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
