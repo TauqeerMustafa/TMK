@@ -1,1 +1,1 @@
-[2024-10-03 14:54:08 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2024-10-03 13:22:05 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
