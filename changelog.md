@@ -1,1 +1,1 @@
-[2024-10-09 21:46:00 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
+[2024-10-09 21:23:19 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
