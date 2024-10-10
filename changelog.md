@@ -1,1 +1,1 @@
-[2024-10-10 16:11:09 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
+[2024-10-10 18:37:13 UTC] feat(ts/components): create MetricCard with dynamic status indicators
