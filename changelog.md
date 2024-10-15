@@ -1,1 +1,1 @@
-[2024-10-15 13:19:57 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
+[2024-10-15 09:23:55 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
