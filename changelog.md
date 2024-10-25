@@ -1,1 +1,1 @@
-[2024-10-25 12:11:59 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
+[2024-10-25 13:07:53 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
