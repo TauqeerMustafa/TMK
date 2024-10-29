@@ -1,1 +1,1 @@
-[2024-10-29 20:55:39 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
+[2024-10-29 21:28:40 UTC] fix(go/pool): handle graceful shutdown when task queue is full
