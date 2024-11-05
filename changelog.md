@@ -1,1 +1,1 @@
-[2024-11-05 21:49:42 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
+[2024-11-05 20:14:33 UTC] test(py/load): benchmark API gateway throughput under sustained 10k RPS
