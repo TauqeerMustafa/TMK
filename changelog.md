@@ -1,1 +1,1 @@
-[2024-11-04 12:39:12 UTC] test(py/cache): add unit tests for TTL boundary conditions and cache misses
+[2024-11-05 10:18:03 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
