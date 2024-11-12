@@ -1,1 +1,1 @@
-[2024-11-12 17:58:42 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
+[2024-11-12 12:01:30 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
