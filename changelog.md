@@ -1,1 +1,1 @@
-[2024-11-13 21:06:07 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
+[2024-11-13 12:29:49 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
