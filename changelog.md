@@ -1,1 +1,1 @@
-[2024-11-14 09:56:46 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
+[2024-11-14 13:19:54 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
