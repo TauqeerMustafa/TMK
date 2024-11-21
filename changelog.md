@@ -1,1 +1,1 @@
-[2024-11-21 09:56:56 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2024-11-21 14:26:07 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
