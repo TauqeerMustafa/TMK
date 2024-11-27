@@ -1,1 +1,1 @@
-[2024-11-27 09:56:37 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
+[2024-11-27 13:01:46 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
