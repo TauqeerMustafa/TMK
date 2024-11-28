@@ -1,1 +1,1 @@
-[2024-11-28 15:15:43 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
+[2024-11-28 17:04:55 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
