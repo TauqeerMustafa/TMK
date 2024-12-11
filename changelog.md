@@ -1,1 +1,1 @@
-[2024-12-11 11:44:12 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
+[2024-12-11 11:19:34 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
