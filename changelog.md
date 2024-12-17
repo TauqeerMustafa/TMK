@@ -1,1 +1,1 @@
-[2024-12-17 21:19:03 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
+[2024-12-17 09:17:25 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
