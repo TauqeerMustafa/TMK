@@ -1,1 +1,1 @@
-[2024-12-19 15:19:16 UTC] chore(deps): update security patches across container base images
+[2024-12-19 14:26:33 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
