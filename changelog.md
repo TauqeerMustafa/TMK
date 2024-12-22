@@ -1,1 +1,1 @@
-[2024-12-21 19:32:57 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
+[2024-12-22 19:56:18 UTC] refactor(py/cache): optimize OrderedDict eviction policy under high concurrency
