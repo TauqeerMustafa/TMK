@@ -1,1 +1,1 @@
-[2024-12-23 18:06:55 UTC] feat(go/types): export Task and Handler function signatures
+[2024-12-23 16:27:44 UTC] docs(api): document HMAC signature verification headers and example curl
