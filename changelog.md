@@ -1,1 +1,1 @@
-[2024-12-24 20:57:50 UTC] test(py/security): add test suite for signature tampering and replay attacks
+[2024-12-24 21:22:31 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
