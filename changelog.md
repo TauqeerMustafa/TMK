@@ -1,1 +1,1 @@
-[2024-12-29 13:51:30 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
+[2024-12-29 15:07:11 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
