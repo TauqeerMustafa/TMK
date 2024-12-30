@@ -1,1 +1,1 @@
-[2024-12-30 19:18:23 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
+[2024-12-30 18:35:30 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
