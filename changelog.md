@@ -1,1 +1,1 @@
-[2024-12-30 16:49:33 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
+[2024-12-30 16:38:56 UTC] feat(go/types): export Task and Handler function signatures
