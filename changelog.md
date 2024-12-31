@@ -1,1 +1,1 @@
-[2024-12-31 18:58:19 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
+[2024-12-31 10:04:41 UTC] chore(deps): update security patches across container base images
