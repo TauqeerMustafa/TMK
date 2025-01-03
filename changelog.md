@@ -1,1 +1,1 @@
-[2025-01-03 15:41:26 UTC] fix(go/pool): handle graceful shutdown when task queue is full
+[2025-01-03 17:49:07 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
