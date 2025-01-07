@@ -1,1 +1,1 @@
-[2025-01-07 17:44:43 UTC] feat(py/cache): implement thread-safe LRU cache with per-key TTL expiration
+[2025-01-07 21:07:13 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
