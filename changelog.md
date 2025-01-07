@@ -1,1 +1,1 @@
-[2025-01-07 09:28:44 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
+[2025-01-07 15:23:32 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
