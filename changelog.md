@@ -1,1 +1,1 @@
-[2025-01-09 12:29:48 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
+[2025-01-09 13:09:35 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
