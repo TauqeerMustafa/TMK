@@ -1,1 +1,1 @@
-[2025-01-13 21:39:22 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
+[2025-01-13 19:51:32 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
