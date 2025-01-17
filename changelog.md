@@ -1,1 +1,1 @@
-[2025-01-17 14:04:54 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
+[2025-01-17 09:39:23 UTC] chore(deps): update security patches across container base images
