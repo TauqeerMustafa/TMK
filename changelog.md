@@ -1,1 +1,1 @@
-[2025-01-17 17:00:35 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
+[2025-01-17 21:44:27 UTC] perf(go/pool): optimize task scheduling mutex contention
