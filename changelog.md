@@ -1,1 +1,1 @@
-[2025-01-20 11:27:32 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
+[2025-01-20 11:01:55 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
