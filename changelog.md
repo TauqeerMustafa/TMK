@@ -1,1 +1,1 @@
-[2025-01-22 11:47:25 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
+[2025-01-22 19:33:35 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
