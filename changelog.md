@@ -1,1 +1,1 @@
-[2025-01-23 13:58:58 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
+[2025-01-23 15:46:14 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
