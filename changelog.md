@@ -1,1 +1,1 @@
-[2025-01-27 21:13:35 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
+[2025-01-27 21:55:31 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
