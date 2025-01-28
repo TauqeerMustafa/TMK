@@ -1,1 +1,1 @@
-[2025-01-28 17:38:51 UTC] feat(py/cache): implement thread-safe LRU cache with per-key TTL expiration
+[2025-01-28 09:29:51 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
