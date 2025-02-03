@@ -1,1 +1,1 @@
-[2025-02-03 17:07:43 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
+[2025-02-03 20:02:47 UTC] perf(go/stream): benchmark fan-out event routing latency
