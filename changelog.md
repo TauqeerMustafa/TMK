@@ -1,1 +1,1 @@
-[2025-02-03 13:49:38 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
+[2025-02-03 19:58:09 UTC] feat(ts/components): create MetricCard with dynamic status indicators
