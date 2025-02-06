@@ -1,1 +1,1 @@
-[2025-02-06 16:22:42 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
+[2025-02-06 18:15:57 UTC] fix(ts/client): add exponential backoff on stream disconnection
