@@ -1,1 +1,1 @@
-[2025-02-06 10:01:35 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
+[2025-02-06 14:46:41 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
