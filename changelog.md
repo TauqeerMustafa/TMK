@@ -1,1 +1,1 @@
-[2025-02-12 09:42:03 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
+[2025-02-12 19:44:58 UTC] feat(ts/components): create MetricCard with dynamic status indicators
