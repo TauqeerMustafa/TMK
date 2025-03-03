@@ -1,1 +1,1 @@
-[2025-03-03 19:46:03 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
+[2025-03-03 18:38:06 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
