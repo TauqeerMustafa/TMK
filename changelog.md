@@ -1,1 +1,1 @@
-[2025-03-04 15:19:27 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
+[2025-03-04 11:52:54 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
