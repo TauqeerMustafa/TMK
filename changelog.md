@@ -1,1 +1,1 @@
-[2025-03-05 14:07:16 UTC] fix(go/pool): handle graceful shutdown when task queue is full
+[2025-03-05 09:18:06 UTC] feat(ts/components): create MetricCard with dynamic status indicators
