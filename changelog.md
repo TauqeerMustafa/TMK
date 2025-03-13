@@ -1,1 +1,1 @@
-[2025-03-13 18:21:28 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
+[2025-03-13 21:52:41 UTC] fix(go/pool): handle graceful shutdown when task queue is full
