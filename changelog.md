@@ -1,1 +1,1 @@
-[2025-03-15 09:37:04 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
+[2025-03-15 13:58:15 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
