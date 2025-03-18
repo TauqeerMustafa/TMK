@@ -1,1 +1,1 @@
-[2025-03-18 16:23:19 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
+[2025-03-18 19:18:48 UTC] feat(ts/types): define immutable telemetry metric and health status types
