@@ -1,1 +1,1 @@
-[2025-03-28 14:37:59 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
+[2025-03-28 14:38:11 UTC] feat(ts/components): create MetricCard with dynamic status indicators
