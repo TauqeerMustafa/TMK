@@ -1,1 +1,1 @@
-[2025-04-11 18:41:45 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
+[2025-04-11 21:06:06 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
