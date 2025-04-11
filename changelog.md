@@ -1,1 +1,1 @@
-[2025-04-11 19:52:59 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
+[2025-04-11 13:35:18 UTC] docs(api): document HMAC signature verification headers and example curl
