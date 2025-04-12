@@ -1,1 +1,1 @@
-[2025-04-12 11:05:44 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
+[2025-04-12 15:03:05 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
