@@ -1,1 +1,1 @@
-[2025-04-16 09:37:20 UTC] test(go/stream): add parallel concurrency stress tests for dispatcher
+[2025-04-16 14:02:29 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
