@@ -1,1 +1,1 @@
-[2025-04-18 18:20:44 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
+[2025-04-18 19:18:39 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
