@@ -1,1 +1,1 @@
-[2025-04-22 21:35:14 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
+[2025-04-22 15:10:24 UTC] perf(go/stream): benchmark fan-out event routing latency
