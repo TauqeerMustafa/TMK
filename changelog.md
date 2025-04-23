@@ -1,1 +1,1 @@
-[2025-04-23 14:07:31 UTC] feat(go/types): export Task and Handler function signatures
+[2025-04-23 18:49:38 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
