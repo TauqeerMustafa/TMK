@@ -1,1 +1,1 @@
-[2025-04-23 21:28:19 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
+[2025-04-23 15:58:42 UTC] fix(go/pool): handle graceful shutdown when task queue is full
