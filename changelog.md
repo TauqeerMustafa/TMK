@@ -1,1 +1,1 @@
-[2025-04-23 21:56:53 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2025-04-24 18:59:53 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
