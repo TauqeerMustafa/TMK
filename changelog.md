@@ -1,1 +1,1 @@
-[2025-05-01 16:10:07 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
+[2025-05-01 15:14:53 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
