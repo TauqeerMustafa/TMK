@@ -1,1 +1,1 @@
-[2025-05-01 20:28:32 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
+[2025-05-01 11:53:53 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
