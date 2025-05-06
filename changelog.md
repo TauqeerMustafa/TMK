@@ -1,1 +1,1 @@
-[2025-05-06 13:56:22 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
+[2025-05-06 12:58:06 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
