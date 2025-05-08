@@ -1,1 +1,1 @@
-[2025-05-08 15:50:34 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
+[2025-05-08 16:19:46 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
