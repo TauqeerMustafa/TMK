@@ -1,1 +1,1 @@
-[2025-05-12 09:59:38 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
+[2025-05-12 18:59:34 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
