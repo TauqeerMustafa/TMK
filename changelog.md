@@ -1,1 +1,1 @@
-[2025-05-12 09:48:46 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
+[2025-05-12 11:51:05 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
