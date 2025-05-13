@@ -1,1 +1,1 @@
-[2025-05-13 09:30:15 UTC] test(go/stream): add parallel concurrency stress tests for dispatcher
+[2025-05-13 18:39:53 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
