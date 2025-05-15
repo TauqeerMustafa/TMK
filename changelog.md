@@ -1,1 +1,1 @@
-[2025-05-15 12:41:54 UTC] test(py/load): benchmark API gateway throughput under sustained 10k RPS
+[2025-05-15 16:42:00 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
