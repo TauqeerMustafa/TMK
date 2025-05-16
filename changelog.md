@@ -1,1 +1,1 @@
-[2025-05-16 14:06:27 UTC] perf(go/stream): benchmark fan-out event routing latency
+[2025-05-16 16:20:53 UTC] feat(ts/components): create MetricCard with dynamic status indicators
