@@ -1,1 +1,1 @@
-[2025-05-23 18:52:23 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
+[2025-05-23 14:22:11 UTC] fix(ts/client): add exponential backoff on stream disconnection
