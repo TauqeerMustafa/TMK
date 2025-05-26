@@ -1,1 +1,1 @@
-[2025-05-26 12:13:24 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
+[2025-05-26 21:11:51 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
