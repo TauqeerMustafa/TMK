@@ -1,1 +1,1 @@
-[2025-05-26 11:52:16 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
+[2025-05-26 20:59:47 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
