@@ -1,1 +1,1 @@
-[2025-05-28 14:21:19 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
+[2025-05-28 17:08:58 UTC] docs(api): document HMAC signature verification headers and example curl
