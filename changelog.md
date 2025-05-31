@@ -1,1 +1,1 @@
-[2025-05-31 09:14:13 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2025-05-31 09:34:26 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
