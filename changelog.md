@@ -1,1 +1,1 @@
-[2025-06-03 13:10:20 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
+[2025-06-03 11:29:36 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
