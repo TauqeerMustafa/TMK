@@ -1,1 +1,1 @@
-[2025-06-05 18:20:44 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
+[2025-06-05 21:42:07 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
