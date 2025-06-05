@@ -1,1 +1,1 @@
-[2025-06-03 17:28:43 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
+[2025-06-05 12:14:29 UTC] feat(go/types): export Task and Handler function signatures
