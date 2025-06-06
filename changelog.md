@@ -1,1 +1,1 @@
-[2025-06-06 21:21:05 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
+[2025-06-06 10:55:23 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
