@@ -1,1 +1,1 @@
-[2025-06-10 14:52:05 UTC] devops(ci): configure multi-language matrix workflow for Go, Python, and Node
+[2025-06-10 13:40:47 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
