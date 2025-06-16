@@ -1,1 +1,1 @@
-[2025-06-16 18:51:41 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
+[2025-06-16 13:58:55 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
