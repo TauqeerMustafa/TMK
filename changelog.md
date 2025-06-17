@@ -1,1 +1,1 @@
-[2025-06-17 17:36:15 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
+[2025-06-17 20:07:41 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
