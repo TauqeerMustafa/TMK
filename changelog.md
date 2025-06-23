@@ -1,1 +1,1 @@
-[2025-06-23 20:58:19 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
+[2025-06-23 12:03:32 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
