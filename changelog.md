@@ -1,1 +1,1 @@
-[2025-06-24 18:53:54 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
+[2025-06-24 10:20:38 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
