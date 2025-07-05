@@ -1,1 +1,1 @@
-[2025-07-05 13:42:00 UTC] fix(ts/client): add exponential backoff on stream disconnection
+[2025-07-05 12:01:22 UTC] test(py/security): add test suite for signature tampering and replay attacks
