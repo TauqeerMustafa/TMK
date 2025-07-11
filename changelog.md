@@ -1,1 +1,1 @@
-[2025-07-11 21:37:31 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
+[2025-07-11 18:16:44 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
