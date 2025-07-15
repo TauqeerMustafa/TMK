@@ -1,1 +1,1 @@
-[2025-07-15 12:57:07 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2025-07-15 19:16:00 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
