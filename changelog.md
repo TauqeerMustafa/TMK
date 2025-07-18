@@ -1,1 +1,1 @@
-[2025-07-18 12:30:48 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2025-07-18 20:16:29 UTC] feat(ts/types): define immutable telemetry metric and health status types
