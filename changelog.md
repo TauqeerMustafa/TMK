@@ -1,1 +1,1 @@
-[2025-07-19 10:20:44 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
+[2025-07-19 12:20:44 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
