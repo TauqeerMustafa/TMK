@@ -1,1 +1,1 @@
-[2025-07-21 16:30:32 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
+[2025-07-21 14:59:39 UTC] refactor(py/cache): optimize OrderedDict eviction policy under high concurrency
