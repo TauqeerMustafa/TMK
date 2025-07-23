@@ -1,1 +1,1 @@
-[2025-07-23 13:29:32 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
+[2025-07-23 12:08:22 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
