@@ -1,1 +1,1 @@
-[2025-07-24 10:57:31 UTC] fix(ts/client): add exponential backoff on stream disconnection
+[2025-07-24 17:22:12 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
