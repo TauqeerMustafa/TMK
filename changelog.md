@@ -1,1 +1,1 @@
-[2025-07-25 11:47:09 UTC] docs(api): document HMAC signature verification headers and example curl
+[2025-07-25 21:06:58 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
