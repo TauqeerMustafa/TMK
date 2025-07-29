@@ -1,1 +1,1 @@
-[2025-07-29 14:14:15 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
+[2025-07-29 12:07:54 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
