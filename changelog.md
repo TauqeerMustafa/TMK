@@ -1,1 +1,1 @@
-[2025-08-01 11:58:21 UTC] fix(go/pool): handle graceful shutdown when task queue is full
+[2025-08-01 11:23:36 UTC] feat(ts/types): define immutable telemetry metric and health status types
