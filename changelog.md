@@ -1,1 +1,1 @@
-[2025-08-04 10:57:26 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
+[2025-08-04 15:46:02 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
