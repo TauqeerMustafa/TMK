@@ -1,1 +1,1 @@
-[2025-08-05 21:25:07 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
+[2025-08-05 14:26:02 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
