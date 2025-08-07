@@ -1,1 +1,1 @@
-[2025-08-07 21:30:30 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2025-08-07 16:33:10 UTC] test(go/stream): add parallel concurrency stress tests for dispatcher
