@@ -1,1 +1,1 @@
-[2025-08-08 14:46:13 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2025-08-08 21:21:14 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
