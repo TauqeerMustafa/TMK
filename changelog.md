@@ -1,1 +1,1 @@
-[2025-08-08 19:51:23 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
+[2025-08-08 20:07:06 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
