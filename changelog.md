@@ -1,1 +1,1 @@
-[2025-08-08 09:20:50 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
+[2025-08-08 13:40:08 UTC] devops(ci): configure multi-language matrix workflow for Go, Python, and Node
