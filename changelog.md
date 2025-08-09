@@ -1,1 +1,1 @@
-[2025-08-09 13:06:29 UTC] test(py/security): add test suite for signature tampering and replay attacks
+[2025-08-09 16:23:21 UTC] feat(ts/types): define immutable telemetry metric and health status types
