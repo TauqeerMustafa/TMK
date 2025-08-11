@@ -1,1 +1,1 @@
-[2025-08-11 16:59:49 UTC] chore(deps): update security patches across container base images
+[2025-08-11 13:03:39 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
