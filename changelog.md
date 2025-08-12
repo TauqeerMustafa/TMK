@@ -1,1 +1,1 @@
-[2025-08-12 16:05:35 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
+[2025-08-12 14:24:55 UTC] fix(go/pool): handle graceful shutdown when task queue is full
