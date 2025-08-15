@@ -1,1 +1,1 @@
-[2025-08-15 11:23:52 UTC] test(py/security): add test suite for signature tampering and replay attacks
+[2025-08-15 16:56:40 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
