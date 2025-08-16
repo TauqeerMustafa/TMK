@@ -1,1 +1,1 @@
-[2025-08-16 11:32:37 UTC] perf(go/stream): benchmark fan-out event routing latency
+[2025-08-16 21:24:12 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
