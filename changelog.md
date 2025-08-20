@@ -1,1 +1,1 @@
-[2025-08-20 13:13:30 UTC] feat(go/metrics): add atomic completed and failed task counters
+[2025-08-20 20:13:18 UTC] perf(go/pool): optimize task scheduling mutex contention
