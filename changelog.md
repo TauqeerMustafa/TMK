@@ -1,1 +1,1 @@
-[2025-08-21 18:14:20 UTC] chore(deps): update security patches across container base images
+[2025-08-21 15:43:12 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
