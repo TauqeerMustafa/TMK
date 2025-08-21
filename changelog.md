@@ -1,1 +1,1 @@
-[2025-08-21 10:50:03 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
+[2025-08-21 20:30:56 UTC] feat(ts/components): create MetricCard with dynamic status indicators
