@@ -1,1 +1,1 @@
-[2025-08-21 09:14:46 UTC] refactor(py/cache): optimize OrderedDict eviction policy under high concurrency
+[2025-08-21 15:31:56 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
