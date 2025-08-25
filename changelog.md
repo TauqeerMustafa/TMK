@@ -1,1 +1,1 @@
-[2025-08-25 11:14:45 UTC] test(py/load): benchmark API gateway throughput under sustained 10k RPS
+[2025-08-25 16:23:41 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
