@@ -1,1 +1,1 @@
-[2025-08-26 20:38:15 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
+[2025-08-26 16:44:05 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
