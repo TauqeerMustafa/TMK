@@ -1,1 +1,1 @@
-[2025-08-26 16:12:52 UTC] chore(deps): update security patches across container base images
+[2025-08-26 16:52:08 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
