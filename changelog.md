@@ -1,1 +1,1 @@
-[2025-08-26 18:21:53 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
+[2025-08-26 14:56:21 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
