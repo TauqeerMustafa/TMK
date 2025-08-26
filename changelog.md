@@ -1,1 +1,1 @@
-[2025-08-26 10:05:22 UTC] docs(api): document HMAC signature verification headers and example curl
+[2025-08-26 12:10:09 UTC] fix(go/pool): handle graceful shutdown when task queue is full
