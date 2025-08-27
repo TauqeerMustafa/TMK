@@ -1,1 +1,1 @@
-[2025-08-27 10:04:10 UTC] feat(py/cache): implement thread-safe LRU cache with per-key TTL expiration
+[2025-08-27 13:46:01 UTC] feat(ts/components): create MetricCard with dynamic status indicators
