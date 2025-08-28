@@ -1,1 +1,1 @@
-[2025-08-28 12:21:18 UTC] feat(ts/components): create MetricCard with dynamic status indicators
+[2025-08-28 12:10:28 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
