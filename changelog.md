@@ -1,1 +1,1 @@
-[2025-08-31 11:46:06 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
+[2025-08-31 12:34:07 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
