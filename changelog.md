@@ -1,1 +1,1 @@
-[2025-09-01 10:05:17 UTC] feat(ts/types): define immutable telemetry metric and health status types
+[2025-09-01 13:53:44 UTC] feat(go/metrics): add atomic completed and failed task counters
