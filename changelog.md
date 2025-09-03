@@ -1,1 +1,1 @@
-[2025-09-03 13:43:56 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
+[2025-09-03 19:53:40 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
