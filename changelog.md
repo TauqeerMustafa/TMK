@@ -1,1 +1,1 @@
-[2025-09-04 17:48:07 UTC] test(go/stream): add parallel concurrency stress tests for dispatcher
+[2025-09-04 18:54:10 UTC] feat(go/types): export Task and Handler function signatures
