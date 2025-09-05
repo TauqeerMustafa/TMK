@@ -1,1 +1,1 @@
-[2025-09-05 17:44:56 UTC] feat(ts/types): define immutable telemetry metric and health status types
+[2025-09-05 16:23:37 UTC] perf(go/stream): benchmark fan-out event routing latency
