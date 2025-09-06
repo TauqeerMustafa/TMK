@@ -1,1 +1,1 @@
-[2025-09-06 19:32:51 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
+[2025-09-06 12:58:45 UTC] feat(go/metrics): add atomic completed and failed task counters
