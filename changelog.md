@@ -1,1 +1,1 @@
-[2025-09-11 11:33:10 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
+[2025-09-11 20:31:31 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
