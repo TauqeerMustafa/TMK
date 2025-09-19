@@ -1,1 +1,1 @@
-[2025-09-19 11:10:02 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
+[2025-09-19 09:42:07 UTC] test(py/security): add test suite for signature tampering and replay attacks
