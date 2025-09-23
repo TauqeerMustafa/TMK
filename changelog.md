@@ -1,1 +1,1 @@
-[2025-09-23 18:56:39 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2025-09-23 19:41:08 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
