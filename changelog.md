@@ -1,1 +1,1 @@
-[2025-09-26 18:22:20 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
+[2025-09-26 20:16:44 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
