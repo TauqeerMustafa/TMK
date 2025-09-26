@@ -1,1 +1,1 @@
-[2025-09-26 18:51:48 UTC] feat(py/cache): implement thread-safe LRU cache with per-key TTL expiration
+[2025-09-26 21:27:54 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
