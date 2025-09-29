@@ -1,1 +1,1 @@
-[2025-09-29 21:04:43 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
+[2025-09-29 18:50:54 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
