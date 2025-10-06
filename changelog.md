@@ -1,1 +1,1 @@
-[2025-10-06 18:35:08 UTC] test(go/stream): add parallel concurrency stress tests for dispatcher
+[2025-10-06 13:53:23 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
