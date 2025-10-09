@@ -1,1 +1,1 @@
-[2025-10-09 18:36:29 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
+[2025-10-09 16:18:07 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
