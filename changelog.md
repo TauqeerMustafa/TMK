@@ -1,1 +1,1 @@
-[2025-10-12 15:21:15 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
+[2025-10-12 21:29:10 UTC] feat(ts/types): define immutable telemetry metric and health status types
