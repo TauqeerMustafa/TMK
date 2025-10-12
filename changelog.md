@@ -1,1 +1,1 @@
-[2025-10-12 20:09:12 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
+[2025-10-12 09:41:46 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
