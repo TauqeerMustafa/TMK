@@ -1,1 +1,1 @@
-[2025-10-13 16:16:55 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2025-10-13 09:25:06 UTC] feat(ts/components): create MetricCard with dynamic status indicators
