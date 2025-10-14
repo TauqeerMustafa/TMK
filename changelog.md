@@ -1,1 +1,1 @@
-[2025-10-14 20:45:09 UTC] docs(api): document HMAC signature verification headers and example curl
+[2025-10-14 16:18:18 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
