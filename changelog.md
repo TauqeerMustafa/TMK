@@ -1,1 +1,1 @@
-[2025-10-15 13:07:38 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
+[2025-10-15 10:26:20 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
