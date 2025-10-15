@@ -1,1 +1,1 @@
-[2025-10-15 16:01:06 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
+[2025-10-15 16:42:26 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
