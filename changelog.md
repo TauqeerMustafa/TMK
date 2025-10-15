@@ -1,1 +1,1 @@
-[2025-10-15 21:00:37 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
+[2025-10-15 18:03:56 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
