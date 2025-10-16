@@ -1,1 +1,1 @@
-[2025-10-16 10:21:22 UTC] test(py/load): benchmark API gateway throughput under sustained 10k RPS
+[2025-10-16 14:48:14 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
