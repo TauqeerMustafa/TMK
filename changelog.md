@@ -1,1 +1,1 @@
-[2025-10-20 12:27:39 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
+[2025-10-20 09:17:01 UTC] feat(ts/components): create MetricCard with dynamic status indicators
