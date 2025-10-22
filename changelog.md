@@ -1,1 +1,1 @@
-[2025-10-22 11:29:41 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
+[2025-10-22 13:27:09 UTC] perf(go/stream): benchmark fan-out event routing latency
