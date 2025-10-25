@@ -1,1 +1,1 @@
-[2025-10-25 13:27:54 UTC] feat(py/cache): implement thread-safe LRU cache with per-key TTL expiration
+[2025-10-25 13:21:38 UTC] feat(go/metrics): add atomic completed and failed task counters
