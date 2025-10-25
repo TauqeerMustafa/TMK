@@ -1,1 +1,1 @@
-[2025-10-25 10:27:07 UTC] fix(go/pool): handle graceful shutdown when task queue is full
+[2025-10-25 19:35:24 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
