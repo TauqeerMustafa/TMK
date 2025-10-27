@@ -1,1 +1,1 @@
-[2025-10-27 13:41:32 UTC] devops(docker): configure multi-stage build for Go core engine runtime
+[2025-10-27 17:19:44 UTC] perf(go/stream): benchmark fan-out event routing latency
