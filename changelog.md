@@ -1,1 +1,1 @@
-[2025-10-28 12:38:24 UTC] fix(ts/client): add exponential backoff on stream disconnection
+[2025-10-28 09:36:51 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
