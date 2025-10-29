@@ -1,1 +1,1 @@
-[2025-10-29 19:17:28 UTC] test(py/cache): add unit tests for TTL boundary conditions and cache misses
+[2025-10-29 14:43:44 UTC] feat(ts/components): create MetricCard with dynamic status indicators
