@@ -1,1 +1,1 @@
-[2025-11-02 15:24:18 UTC] feat(py/cache): implement thread-safe LRU cache with per-key TTL expiration
+[2025-11-02 19:37:28 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
