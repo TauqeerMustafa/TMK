@@ -1,1 +1,1 @@
-[2025-11-05 13:08:24 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
+[2025-11-05 10:57:23 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
