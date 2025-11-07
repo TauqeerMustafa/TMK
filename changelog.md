@@ -1,1 +1,1 @@
-[2025-11-07 17:23:04 UTC] devops(docker): configure multi-stage build for Go core engine runtime
+[2025-11-07 09:40:45 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
