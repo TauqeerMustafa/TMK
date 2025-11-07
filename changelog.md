@@ -1,1 +1,1 @@
-[2025-11-07 18:53:51 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2025-11-07 12:25:15 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
