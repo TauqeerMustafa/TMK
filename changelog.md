@@ -1,1 +1,1 @@
-[2025-11-11 21:43:46 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
+[2025-11-11 16:46:39 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
