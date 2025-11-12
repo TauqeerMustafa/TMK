@@ -1,1 +1,1 @@
-[2025-11-12 14:14:48 UTC] test(go/stream): add parallel concurrency stress tests for dispatcher
+[2025-11-12 21:08:35 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
