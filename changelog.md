@@ -1,1 +1,1 @@
-[2025-11-14 17:06:07 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
+[2025-11-14 18:40:56 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
