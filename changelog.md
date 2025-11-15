@@ -1,1 +1,1 @@
-[2025-11-15 14:15:43 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
+[2025-11-15 14:23:13 UTC] docs(api): document HMAC signature verification headers and example curl
