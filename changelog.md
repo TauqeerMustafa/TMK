@@ -1,1 +1,1 @@
-[2025-11-16 10:51:39 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
+[2025-11-16 19:15:56 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
