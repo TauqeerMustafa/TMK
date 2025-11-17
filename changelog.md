@@ -1,1 +1,1 @@
-[2025-11-17 15:20:03 UTC] chore(deps): update security patches across container base images
+[2025-11-17 20:10:27 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
