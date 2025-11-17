@@ -1,1 +1,1 @@
-[2025-11-17 20:12:35 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
+[2025-11-17 14:20:01 UTC] feat(ts/components): create MetricCard with dynamic status indicators
