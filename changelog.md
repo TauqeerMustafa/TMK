@@ -1,1 +1,1 @@
-[2025-11-17 20:24:14 UTC] fix(ts/client): add exponential backoff on stream disconnection
+[2025-11-17 11:59:31 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
