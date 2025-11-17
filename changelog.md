@@ -1,1 +1,1 @@
-[2025-11-17 16:18:51 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2025-11-17 16:04:51 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
