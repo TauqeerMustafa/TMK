@@ -1,1 +1,1 @@
-[2025-11-18 10:00:41 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
+[2025-11-18 20:45:22 UTC] chore(deps): update security patches across container base images
