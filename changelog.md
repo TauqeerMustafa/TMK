@@ -1,1 +1,1 @@
-[2025-11-19 17:59:29 UTC] test(go/stream): add parallel concurrency stress tests for dispatcher
+[2025-11-19 16:13:09 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
