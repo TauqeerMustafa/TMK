@@ -1,1 +1,1 @@
-[2025-11-21 18:06:36 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
+[2025-11-21 15:43:14 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
