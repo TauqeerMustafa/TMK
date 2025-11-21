@@ -1,1 +1,1 @@
-[2025-11-21 13:50:49 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
+[2025-11-21 18:19:14 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
