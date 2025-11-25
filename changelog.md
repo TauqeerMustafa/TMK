@@ -1,1 +1,1 @@
-[2025-11-25 15:35:23 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
+[2025-11-25 10:59:46 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
