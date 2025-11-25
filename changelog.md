@@ -1,1 +1,1 @@
-[2025-11-25 17:17:24 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
+[2025-11-25 16:58:39 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
