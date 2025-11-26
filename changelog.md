@@ -1,1 +1,1 @@
-[2025-11-26 14:56:19 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
+[2025-11-26 13:36:51 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
