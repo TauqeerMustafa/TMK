@@ -1,1 +1,1 @@
-[2025-11-27 16:18:09 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
+[2025-11-27 18:57:43 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
