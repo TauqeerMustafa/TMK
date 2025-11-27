@@ -1,1 +1,1 @@
-[2025-11-27 16:24:58 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
+[2025-11-27 11:06:38 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
