@@ -1,1 +1,1 @@
-[2025-11-30 12:47:37 UTC] devops(ci): configure multi-language matrix workflow for Go, Python, and Node
+[2025-11-30 20:43:48 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
