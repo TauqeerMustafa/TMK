@@ -1,1 +1,1 @@
-[2025-12-01 20:03:42 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
+[2025-12-01 17:00:37 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
