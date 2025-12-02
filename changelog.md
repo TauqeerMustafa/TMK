@@ -1,1 +1,1 @@
-[2025-12-02 09:31:36 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
+[2025-12-02 09:37:08 UTC] feat(go/metrics): add atomic completed and failed task counters
