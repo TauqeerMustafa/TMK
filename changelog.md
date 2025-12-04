@@ -1,1 +1,1 @@
-[2025-12-04 13:59:31 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
+[2025-12-04 11:56:51 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
