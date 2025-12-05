@@ -1,1 +1,1 @@
-[2025-12-05 15:16:44 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
+[2025-12-05 19:31:12 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
