@@ -1,1 +1,1 @@
-[2025-12-11 14:43:48 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
+[2025-12-11 19:24:07 UTC] devops(docker): configure multi-stage build for Go core engine runtime
