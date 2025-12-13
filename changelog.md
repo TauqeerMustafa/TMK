@@ -1,1 +1,1 @@
-[2025-12-13 19:19:21 UTC] test(go/stream): add parallel concurrency stress tests for dispatcher
+[2025-12-13 15:15:28 UTC] feat(go/metrics): add atomic completed and failed task counters
