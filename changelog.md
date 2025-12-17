@@ -1,1 +1,1 @@
-[2025-12-17 16:52:06 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
+[2025-12-17 19:28:22 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
