@@ -1,1 +1,1 @@
-[2025-12-18 15:36:12 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
+[2025-12-18 20:46:53 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
