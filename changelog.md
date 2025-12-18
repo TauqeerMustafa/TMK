@@ -1,1 +1,1 @@
-[2025-12-18 15:31:36 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
+[2025-12-18 14:26:55 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
