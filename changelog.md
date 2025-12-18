@@ -1,1 +1,1 @@
-[2025-12-18 17:12:38 UTC] fix(go/pool): handle graceful shutdown when task queue is full
+[2025-12-18 13:16:31 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
