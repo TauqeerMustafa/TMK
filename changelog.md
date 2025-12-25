@@ -1,1 +1,1 @@
-[2025-12-25 16:23:50 UTC] devops(docker): configure multi-stage build for Go core engine runtime
+[2025-12-25 12:39:09 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
