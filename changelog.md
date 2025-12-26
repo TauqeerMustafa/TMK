@@ -1,1 +1,1 @@
-[2025-12-26 11:35:19 UTC] perf(go/stream): benchmark fan-out event routing latency
+[2025-12-26 14:08:17 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
