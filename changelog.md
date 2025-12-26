@@ -1,1 +1,1 @@
-[2025-12-26 19:44:28 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
+[2025-12-26 20:08:48 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
