@@ -1,1 +1,1 @@
-[2025-12-26 12:19:15 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
+[2025-12-26 13:22:18 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
