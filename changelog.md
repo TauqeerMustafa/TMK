@@ -1,1 +1,1 @@
-[2025-12-26 13:49:18 UTC] devops(docker): configure multi-stage build for Go core engine runtime
+[2025-12-26 11:04:46 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
