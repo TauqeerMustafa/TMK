@@ -1,1 +1,1 @@
-[2025-12-29 15:34:19 UTC] test(py/security): add test suite for signature tampering and replay attacks
+[2025-12-29 11:44:56 UTC] feat(ts/components): create MetricCard with dynamic status indicators
