@@ -1,1 +1,1 @@
-[2025-12-26 15:53:17 UTC] fix(ts/client): add exponential backoff on stream disconnection
+[2025-12-29 13:46:06 UTC] feat(ts/types): define immutable telemetry metric and health status types
