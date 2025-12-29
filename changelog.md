@@ -1,1 +1,1 @@
-[2025-12-29 09:21:46 UTC] feat(go/metrics): add atomic completed and failed task counters
+[2025-12-29 09:26:17 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
