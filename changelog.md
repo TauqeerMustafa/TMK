@@ -1,1 +1,1 @@
-[2025-12-30 15:23:18 UTC] perf(go/stream): benchmark fan-out event routing latency
+[2025-12-30 09:13:53 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
