@@ -1,1 +1,1 @@
-[2025-12-31 12:38:49 UTC] fix(go/pool): handle graceful shutdown when task queue is full
+[2025-12-31 10:19:40 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
