@@ -1,1 +1,1 @@
-[2025-12-31 20:12:13 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
+[2026-01-01 13:21:12 UTC] feat(go/metrics): add atomic completed and failed task counters
