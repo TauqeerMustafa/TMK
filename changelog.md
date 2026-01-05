@@ -1,1 +1,1 @@
-[2026-01-05 09:01:01 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
+[2026-01-05 17:01:35 UTC] docs(api): document HMAC signature verification headers and example curl
