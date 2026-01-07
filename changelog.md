@@ -1,1 +1,1 @@
-[2026-01-07 16:49:10 UTC] refactor(py/cache): optimize OrderedDict eviction policy under high concurrency
+[2026-01-07 19:59:39 UTC] docs(api): document HMAC signature verification headers and example curl
