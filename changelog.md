@@ -1,1 +1,1 @@
-[2026-01-07 10:26:23 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
+[2026-01-07 17:21:16 UTC] refactor(py/cache): optimize OrderedDict eviction policy under high concurrency
