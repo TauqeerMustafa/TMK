@@ -1,1 +1,1 @@
-[2026-01-07 10:26:10 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
+[2026-01-07 13:37:26 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
