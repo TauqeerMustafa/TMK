@@ -1,1 +1,1 @@
-[2026-01-08 11:02:43 UTC] feat(ts/types): define immutable telemetry metric and health status types
+[2026-01-08 17:37:31 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
