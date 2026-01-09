@@ -1,1 +1,1 @@
-[2026-01-09 20:50:40 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
+[2026-01-09 20:33:17 UTC] feat(ts/components): create MetricCard with dynamic status indicators
