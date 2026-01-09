@@ -1,1 +1,1 @@
-[2026-01-09 18:13:28 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
+[2026-01-09 18:02:18 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
