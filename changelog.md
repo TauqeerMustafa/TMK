@@ -1,1 +1,1 @@
-[2026-01-10 18:06:00 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
+[2026-01-10 15:54:54 UTC] test(py/security): add test suite for signature tampering and replay attacks
