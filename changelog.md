@@ -1,1 +1,1 @@
-[2026-01-18 09:27:49 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
+[2026-01-18 09:59:28 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
