@@ -1,1 +1,1 @@
-[2026-01-20 10:03:30 UTC] devops(docker): configure multi-stage build for Go core engine runtime
+[2026-01-20 21:03:41 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
