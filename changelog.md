@@ -1,1 +1,1 @@
-[2026-01-23 19:29:29 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
+[2026-01-23 20:07:04 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
