@@ -1,1 +1,1 @@
-[2026-01-23 10:33:46 UTC] feat(ts/types): define immutable telemetry metric and health status types
+[2026-01-23 11:03:59 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
