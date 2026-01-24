@@ -1,1 +1,1 @@
-[2026-01-24 20:16:29 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
+[2026-01-24 21:03:00 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
