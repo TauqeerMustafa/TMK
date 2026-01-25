@@ -1,1 +1,1 @@
-[2026-01-25 12:34:13 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
+[2026-01-25 19:47:52 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
