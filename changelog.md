@@ -1,1 +1,1 @@
-[2026-01-25 20:56:11 UTC] feat(py/cache): implement thread-safe LRU cache with per-key TTL expiration
+[2026-01-25 14:36:12 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
