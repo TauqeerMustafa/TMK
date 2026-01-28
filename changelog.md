@@ -1,1 +1,1 @@
-[2026-01-28 15:34:58 UTC] feat(ts/types): define immutable telemetry metric and health status types
+[2026-01-28 13:13:41 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
