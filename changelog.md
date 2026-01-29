@@ -1,1 +1,1 @@
-[2026-01-29 09:24:29 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
+[2026-01-29 13:48:22 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
