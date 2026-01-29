@@ -1,1 +1,1 @@
-[2026-01-29 18:32:08 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
+[2026-01-29 21:07:20 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
