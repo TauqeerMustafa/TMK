@@ -1,1 +1,1 @@
-[2026-01-29 09:53:08 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
+[2026-01-29 16:42:50 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
