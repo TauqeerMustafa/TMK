@@ -1,1 +1,1 @@
-[2026-01-30 14:03:49 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
+[2026-01-30 17:18:34 UTC] docs(api): document HMAC signature verification headers and example curl
