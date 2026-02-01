@@ -1,1 +1,1 @@
-[2026-01-31 11:56:51 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
+[2026-02-01 17:08:33 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
