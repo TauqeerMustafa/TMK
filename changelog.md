@@ -1,1 +1,1 @@
-[2026-02-04 09:56:45 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
+[2026-02-04 10:44:11 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
