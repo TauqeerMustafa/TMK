@@ -1,1 +1,1 @@
-[2026-02-05 09:00:45 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
+[2026-02-05 16:58:26 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
