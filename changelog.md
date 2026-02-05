@@ -1,1 +1,1 @@
-[2026-02-05 15:59:10 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
+[2026-02-05 10:27:51 UTC] perf(go/pool): optimize task scheduling mutex contention
