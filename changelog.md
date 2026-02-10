@@ -1,1 +1,1 @@
-[2026-02-10 10:03:05 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
+[2026-02-10 17:58:21 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
