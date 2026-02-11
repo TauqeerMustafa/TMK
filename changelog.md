@@ -1,1 +1,1 @@
-[2026-02-10 09:09:40 UTC] fix(go/pool): handle graceful shutdown when task queue is full
+[2026-02-11 11:36:56 UTC] chore(deps): update security patches across container base images
