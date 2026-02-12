@@ -1,1 +1,1 @@
-[2026-02-12 15:17:55 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
+[2026-02-12 10:51:03 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
