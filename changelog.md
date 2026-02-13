@@ -1,1 +1,1 @@
-[2026-02-13 10:00:42 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
+[2026-02-13 17:04:12 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
