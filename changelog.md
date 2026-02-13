@@ -1,1 +1,1 @@
-[2026-02-13 10:29:00 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2026-02-13 19:05:55 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
