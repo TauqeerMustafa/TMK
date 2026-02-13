@@ -1,1 +1,1 @@
-[2026-02-13 13:19:17 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
+[2026-02-13 11:39:32 UTC] feat(ts/components): create MetricCard with dynamic status indicators
