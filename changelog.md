@@ -1,1 +1,1 @@
-[2026-02-14 09:35:12 UTC] feat(go/metrics): add atomic completed and failed task counters
+[2026-02-14 21:46:12 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
