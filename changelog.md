@@ -1,1 +1,1 @@
-[2026-02-16 09:07:25 UTC] feat(go/metrics): add atomic completed and failed task counters
+[2026-02-16 10:57:42 UTC] feat(ts/components): create MetricCard with dynamic status indicators
