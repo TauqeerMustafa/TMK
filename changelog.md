@@ -1,1 +1,1 @@
-[2026-02-17 17:18:41 UTC] perf(go/stream): benchmark fan-out event routing latency
+[2026-02-17 20:00:14 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
