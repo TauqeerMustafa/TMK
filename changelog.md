@@ -1,1 +1,1 @@
-[2026-02-18 11:56:46 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
+[2026-02-18 09:48:31 UTC] fix(telemetry): sanitize sensitive authorization headers from trace spans
