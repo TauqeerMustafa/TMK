@@ -1,1 +1,1 @@
-[2026-02-19 17:19:40 UTC] test(py/security): add test suite for signature tampering and replay attacks
+[2026-02-19 11:09:04 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
