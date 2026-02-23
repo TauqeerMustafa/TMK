@@ -1,1 +1,1 @@
-[2026-02-23 18:09:28 UTC] devops(ci): configure multi-language matrix workflow for Go, Python, and Node
+[2026-02-23 13:55:48 UTC] feat(go/types): export Task and Handler function signatures
