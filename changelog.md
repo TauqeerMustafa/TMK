@@ -1,1 +1,1 @@
-[2026-02-24 15:18:59 UTC] fix(go/pool): handle graceful shutdown when task queue is full
+[2026-02-24 17:29:20 UTC] feat(go/types): export Task and Handler function signatures
