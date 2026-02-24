@@ -1,1 +1,1 @@
-[2026-02-24 19:49:54 UTC] test(py/cache): add unit tests for TTL boundary conditions and cache misses
+[2026-02-24 20:25:42 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
