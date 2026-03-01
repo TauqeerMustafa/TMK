@@ -1,1 +1,1 @@
-[2026-03-01 19:34:34 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
+[2026-03-01 18:18:11 UTC] docs(api): document HMAC signature verification headers and example curl
