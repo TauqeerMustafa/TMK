@@ -1,1 +1,1 @@
-[2026-03-02 13:17:37 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
+[2026-03-02 17:58:17 UTC] feat(ts/types): define immutable telemetry metric and health status types
