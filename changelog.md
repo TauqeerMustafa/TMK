@@ -1,1 +1,1 @@
-[2026-03-02 09:18:43 UTC] fix(ts/client): add exponential backoff on stream disconnection
+[2026-03-02 14:47:36 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
