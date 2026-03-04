@@ -1,1 +1,1 @@
-[2026-03-04 14:07:41 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
+[2026-03-04 11:34:48 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
