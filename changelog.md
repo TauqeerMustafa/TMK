@@ -1,1 +1,1 @@
-[2026-03-09 20:23:11 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
+[2026-03-09 11:42:33 UTC] feat(go/metrics): add atomic completed and failed task counters
