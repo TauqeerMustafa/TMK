@@ -1,1 +1,1 @@
-[2026-03-16 13:52:26 UTC] test(py/load): benchmark API gateway throughput under sustained 10k RPS
+[2026-03-16 12:49:49 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
