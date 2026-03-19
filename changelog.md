@@ -1,1 +1,1 @@
-[2026-03-19 18:38:01 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
+[2026-03-19 11:57:06 UTC] feat(ts/components): create MetricCard with dynamic status indicators
