@@ -1,1 +1,1 @@
-[2026-03-21 15:53:13 UTC] feat(py/cache): implement thread-safe LRU cache with per-key TTL expiration
+[2026-03-21 19:11:49 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
