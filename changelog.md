@@ -1,1 +1,1 @@
-[2026-03-26 17:29:39 UTC] feat(go/metrics): add atomic completed and failed task counters
+[2026-03-26 18:41:33 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
