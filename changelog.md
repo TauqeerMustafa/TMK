@@ -1,1 +1,1 @@
-[2026-04-01 10:12:36 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
+[2026-04-01 15:25:04 UTC] feat(ts/components): create MetricCard with dynamic status indicators
