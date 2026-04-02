@@ -1,1 +1,1 @@
-[2026-04-02 09:26:24 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
+[2026-04-02 20:35:22 UTC] fix(ts/client): add exponential backoff on stream disconnection
