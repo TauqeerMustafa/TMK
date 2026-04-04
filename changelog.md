@@ -1,1 +1,1 @@
-[2026-04-04 09:07:12 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
+[2026-04-04 17:45:44 UTC] feat(py/cache): implement thread-safe LRU cache with per-key TTL expiration
