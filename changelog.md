@@ -1,1 +1,1 @@
-[2026-04-05 21:09:09 UTC] test(go/stream): add parallel concurrency stress tests for dispatcher
+[2026-04-05 14:37:29 UTC] docs(api): document HMAC signature verification headers and example curl
