@@ -1,1 +1,1 @@
-[2026-04-07 21:30:22 UTC] feat(go/types): export Task and Handler function signatures
+[2026-04-07 10:44:06 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
