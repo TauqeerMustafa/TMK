@@ -1,1 +1,1 @@
-[2026-04-07 11:10:22 UTC] feat(py/cache): implement thread-safe LRU cache with per-key TTL expiration
+[2026-04-07 12:44:19 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
