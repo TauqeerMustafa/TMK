@@ -1,1 +1,1 @@
-[2026-04-11 11:19:22 UTC] feat(ts/types): define immutable telemetry metric and health status types
+[2026-04-11 20:06:26 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
