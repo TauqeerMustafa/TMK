@@ -1,1 +1,1 @@
-[2026-04-12 12:08:32 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
+[2026-04-12 14:25:04 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
