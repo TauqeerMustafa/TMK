@@ -1,1 +1,1 @@
-[2026-04-13 21:37:00 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
+[2026-04-13 09:02:52 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
