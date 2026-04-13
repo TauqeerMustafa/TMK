@@ -1,1 +1,1 @@
-[2026-04-13 11:19:11 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
+[2026-04-13 18:27:02 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
