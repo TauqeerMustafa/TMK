@@ -1,1 +1,1 @@
-[2026-04-13 16:16:32 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
+[2026-04-13 20:11:26 UTC] chore(deps): update security patches across container base images
