@@ -1,1 +1,1 @@
-[2026-04-16 12:54:25 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
+[2026-04-16 14:27:22 UTC] feat(go/metrics): add atomic completed and failed task counters
