@@ -1,1 +1,1 @@
-[2026-04-20 19:21:51 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
+[2026-04-20 12:30:42 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
