@@ -1,1 +1,1 @@
-[2026-04-21 18:40:30 UTC] test(go/stream): add parallel concurrency stress tests for dispatcher
+[2026-04-21 16:58:23 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
