@@ -1,1 +1,1 @@
-[2026-04-22 17:20:34 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
+[2026-04-22 10:13:42 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
