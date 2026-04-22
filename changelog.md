@@ -1,1 +1,1 @@
-[2026-04-22 14:10:24 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
+[2026-04-22 11:50:27 UTC] feat(ts/components): create MetricCard with dynamic status indicators
