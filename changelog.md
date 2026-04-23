@@ -1,1 +1,1 @@
-[2026-04-23 13:32:49 UTC] feat(go/metrics): add atomic completed and failed task counters
+[2026-04-23 16:07:42 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
