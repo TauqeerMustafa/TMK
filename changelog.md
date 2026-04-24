@@ -1,1 +1,1 @@
-[2026-04-24 13:21:48 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
+[2026-04-24 14:08:40 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
