@@ -1,1 +1,1 @@
-[2026-04-24 10:08:16 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
+[2026-04-27 14:20:16 UTC] test(py/security): add test suite for signature tampering and replay attacks
