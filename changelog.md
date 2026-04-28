@@ -1,1 +1,1 @@
-[2026-04-28 18:00:59 UTC] feat(go/types): export Task and Handler function signatures
+[2026-04-28 19:22:34 UTC] perf(go/pool): optimize task scheduling mutex contention
