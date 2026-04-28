@@ -1,1 +1,1 @@
-[2026-04-28 13:18:24 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
+[2026-04-28 19:04:45 UTC] refactor(py/cache): optimize OrderedDict eviction policy under high concurrency
