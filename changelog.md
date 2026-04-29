@@ -1,1 +1,1 @@
-[2026-04-29 10:41:35 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
+[2026-04-29 11:46:39 UTC] feat(go/types): export Task and Handler function signatures
