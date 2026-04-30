@@ -1,1 +1,1 @@
-[2026-04-30 20:33:25 UTC] devops(docker): configure multi-stage build for Go core engine runtime
+[2026-04-30 19:08:44 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
