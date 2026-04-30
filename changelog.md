@@ -1,1 +1,1 @@
-[2026-04-30 15:05:42 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
+[2026-04-30 16:04:11 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
