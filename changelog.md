@@ -1,1 +1,1 @@
-[2026-05-02 13:25:12 UTC] feat(py/cache): implement thread-safe LRU cache with per-key TTL expiration
+[2026-05-02 12:03:06 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
