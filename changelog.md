@@ -1,1 +1,1 @@
-[2026-05-04 11:52:29 UTC] feat(ts/components): create MetricCard with dynamic status indicators
+[2026-05-04 14:47:48 UTC] feat(go/types): export Task and Handler function signatures
