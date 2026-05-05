@@ -1,1 +1,1 @@
-[2026-05-05 13:45:10 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
+[2026-05-05 15:23:44 UTC] feat(ts/types): define immutable telemetry metric and health status types
