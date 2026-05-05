@@ -1,1 +1,1 @@
-[2026-05-05 12:52:54 UTC] perf(go/pool): optimize task scheduling mutex contention
+[2026-05-05 19:15:15 UTC] refactor(py/cache): optimize OrderedDict eviction policy under high concurrency
