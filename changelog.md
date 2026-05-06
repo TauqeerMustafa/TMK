@@ -1,1 +1,1 @@
-[2026-05-06 20:08:44 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
+[2026-05-06 19:32:16 UTC] feat(ts/types): define immutable telemetry metric and health status types
