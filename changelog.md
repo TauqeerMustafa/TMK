@@ -1,1 +1,1 @@
-[2026-05-11 18:12:17 UTC] devops(docker): configure multi-stage build for Go core engine runtime
+[2026-05-11 14:49:19 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
