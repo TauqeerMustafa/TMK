@@ -1,1 +1,1 @@
-[2026-05-13 09:06:15 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
+[2026-05-14 18:55:31 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
