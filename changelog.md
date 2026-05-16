@@ -1,1 +1,1 @@
-[2026-05-16 20:39:10 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
+[2026-05-16 18:32:22 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
