@@ -1,1 +1,1 @@
-[2026-05-21 18:06:37 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
+[2026-05-21 10:08:08 UTC] feat(ts/components): create MetricCard with dynamic status indicators
