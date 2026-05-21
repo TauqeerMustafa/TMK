@@ -1,1 +1,1 @@
-[2026-05-21 11:17:17 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
+[2026-05-21 13:19:59 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
