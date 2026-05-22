@@ -1,1 +1,1 @@
-[2026-05-22 17:31:00 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
+[2026-05-22 12:19:37 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
