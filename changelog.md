@@ -1,1 +1,1 @@
-[2026-05-26 13:16:33 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
+[2026-05-26 12:41:44 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
