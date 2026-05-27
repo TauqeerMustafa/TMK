@@ -1,1 +1,1 @@
-[2026-05-27 17:02:43 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
+[2026-05-27 17:06:29 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
