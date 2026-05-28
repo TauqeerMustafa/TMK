@@ -1,1 +1,1 @@
-[2026-05-28 20:34:03 UTC] feat(go/metrics): add atomic completed and failed task counters
+[2026-05-28 18:04:20 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
