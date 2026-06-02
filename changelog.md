@@ -1,1 +1,1 @@
-[2026-06-02 12:34:55 UTC] feat(py/cache): implement thread-safe LRU cache with per-key TTL expiration
+[2026-06-02 19:15:18 UTC] feat(ts/types): define immutable telemetry metric and health status types
