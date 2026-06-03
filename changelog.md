@@ -1,1 +1,1 @@
-[2026-06-03 16:35:03 UTC] devops(docker): configure multi-stage build for Go core engine runtime
+[2026-06-03 20:10:32 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
