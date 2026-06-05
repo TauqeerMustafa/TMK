@@ -1,1 +1,1 @@
-[2026-06-05 18:16:58 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
+[2026-06-05 21:08:28 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
