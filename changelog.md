@@ -1,1 +1,1 @@
-[2026-06-05 21:38:23 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
+[2026-06-05 18:16:58 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
