@@ -1,1 +1,1 @@
-[2026-06-06 21:00:30 UTC] feat(py/cache): implement thread-safe LRU cache with per-key TTL expiration
+[2026-06-06 18:14:18 UTC] fix(go/pool): handle graceful shutdown when task queue is full
