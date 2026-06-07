@@ -1,1 +1,1 @@
-[2026-06-07 09:45:10 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
+[2026-06-07 17:57:41 UTC] feat(go/types): export Task and Handler function signatures
