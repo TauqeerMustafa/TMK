@@ -1,1 +1,1 @@
-[2026-06-11 10:04:49 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
+[2026-06-11 10:53:07 UTC] feat(ts/components): create MetricCard with dynamic status indicators
