@@ -1,1 +1,1 @@
-[2026-06-16 15:50:38 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
+[2026-06-16 12:19:46 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
