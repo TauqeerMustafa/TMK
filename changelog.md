@@ -1,1 +1,1 @@
-[2026-06-16 12:33:02 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
+[2026-06-16 16:11:35 UTC] perf(go/stream): benchmark fan-out event routing latency
