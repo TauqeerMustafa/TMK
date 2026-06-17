@@ -1,1 +1,1 @@
-[2026-06-17 11:47:06 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
+[2026-06-17 13:50:49 UTC] feat(ts/types): define immutable telemetry metric and health status types
