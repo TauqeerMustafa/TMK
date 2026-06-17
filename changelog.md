@@ -1,1 +1,1 @@
-[2026-06-17 11:38:47 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
+[2026-06-17 12:05:08 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
