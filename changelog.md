@@ -1,1 +1,1 @@
-[2026-06-19 20:26:52 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
+[2026-06-19 17:39:07 UTC] docs(api): document HMAC signature verification headers and example curl
