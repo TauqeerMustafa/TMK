@@ -1,1 +1,1 @@
-[2026-06-21 18:30:26 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
+[2026-06-21 10:31:48 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
