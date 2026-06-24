@@ -1,1 +1,1 @@
-[2026-06-24 13:26:16 UTC] fix(go/pool): handle graceful shutdown when task queue is full
+[2026-06-24 12:29:41 UTC] test(go/stream): add parallel concurrency stress tests for dispatcher
