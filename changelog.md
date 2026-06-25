@@ -1,1 +1,1 @@
-[2026-06-25 18:00:29 UTC] devops(ci): configure multi-language matrix workflow for Go, Python, and Node
+[2026-06-25 17:33:01 UTC] feat(k8s): configure horizontal pod autoscaler thresholds for core engine
