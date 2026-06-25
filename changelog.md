@@ -1,1 +1,1 @@
-[2026-06-25 20:08:27 UTC] devops(ci): configure multi-language matrix workflow for Go, Python, and Node
+[2026-06-25 18:50:27 UTC] feat(go/worker): implement bounded worker pool with channel dispatch
