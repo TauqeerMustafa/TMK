@@ -1,1 +1,1 @@
-[2026-06-27 20:59:46 UTC] devops(docker): configure multi-stage build for Go core engine runtime
+[2026-06-27 17:38:31 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
