@@ -1,1 +1,1 @@
-[2026-06-29 13:22:02 UTC] feat(ts/components): create MetricCard with dynamic status indicators
+[2026-06-29 14:25:22 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
