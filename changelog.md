@@ -1,1 +1,1 @@
-[2026-06-30 11:57:51 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
+[2026-06-30 19:00:19 UTC] test(go/stream): add parallel concurrency stress tests for dispatcher
