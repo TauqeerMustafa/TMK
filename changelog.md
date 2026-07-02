@@ -1,1 +1,1 @@
-[2026-07-02 11:33:29 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
+[2026-07-02 21:52:32 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
