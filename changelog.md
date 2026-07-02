@@ -1,1 +1,1 @@
-[2026-07-02 19:10:47 UTC] feat(go/types): export Task and Handler function signatures
+[2026-07-02 15:21:39 UTC] test(py/security): add test suite for signature tampering and replay attacks
