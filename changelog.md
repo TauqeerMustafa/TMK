@@ -1,1 +1,1 @@
-[2026-07-07 18:46:35 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
+[2026-07-07 21:53:06 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
