@@ -1,1 +1,1 @@
-[2026-07-07 20:35:51 UTC] fix(py/security): patch timing attack vulnerability in signature comparison
+[2026-07-07 16:20:30 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
