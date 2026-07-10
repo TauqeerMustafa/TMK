@@ -1,1 +1,1 @@
-[2026-07-10 17:31:22 UTC] feat(py/cache): implement thread-safe LRU cache with per-key TTL expiration
+[2026-07-10 09:04:33 UTC] docs(api): document HMAC signature verification headers and example curl
