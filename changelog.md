@@ -1,1 +1,1 @@
-[2026-07-11 14:44:09 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
+[2026-07-11 15:49:01 UTC] feat(go/types): export Task and Handler function signatures
