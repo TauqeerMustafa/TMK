@@ -1,1 +1,1 @@
-[2026-07-12 14:51:28 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
+[2026-07-12 12:17:07 UTC] feat(ts/types): define immutable telemetry metric and health status types
