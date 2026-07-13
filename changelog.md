@@ -1,1 +1,1 @@
-[2026-07-13 09:08:25 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
+[2026-07-13 17:59:13 UTC] feat(ts/types): define immutable telemetry metric and health status types
