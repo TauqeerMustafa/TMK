@@ -1,1 +1,1 @@
-[2026-07-15 15:22:06 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
+[2026-07-15 18:41:24 UTC] refactor(py/cache): optimize OrderedDict eviction policy under high concurrency
