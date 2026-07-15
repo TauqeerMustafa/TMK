@@ -1,1 +1,1 @@
-[2026-07-15 12:48:33 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
+[2026-07-15 20:26:52 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
