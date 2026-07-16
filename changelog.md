@@ -1,1 +1,1 @@
-[2026-07-16 14:03:30 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
+[2026-07-16 13:48:22 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
