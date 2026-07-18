@@ -1,1 +1,1 @@
-[2026-07-18 10:02:42 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
+[2026-07-18 19:21:57 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
