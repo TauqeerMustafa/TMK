@@ -1,1 +1,1 @@
-[2026-07-18 11:51:02 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
+[2026-07-18 21:52:29 UTC] feat(go/types): export Task and Handler function signatures
