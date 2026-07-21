@@ -1,1 +1,1 @@
-[2026-07-21 16:35:39 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
+[2026-07-21 09:26:53 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
