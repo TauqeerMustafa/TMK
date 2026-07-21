@@ -1,1 +1,1 @@
-[2026-07-21 18:50:37 UTC] fix(go/pool): handle graceful shutdown when task queue is full
+[2026-07-21 19:27:01 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
