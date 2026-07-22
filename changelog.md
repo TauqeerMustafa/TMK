@@ -1,1 +1,1 @@
-[2026-07-22 14:21:45 UTC] fix(go/stream): resolve goroutine leak in event subscriber cleanup
+[2026-07-22 15:24:55 UTC] feat(ts/types): define immutable telemetry metric and health status types
