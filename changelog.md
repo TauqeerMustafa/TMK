@@ -1,1 +1,1 @@
-[2026-07-21 10:52:10 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
+[2026-07-22 09:35:23 UTC] fix(ts/client): add exponential backoff on stream disconnection
