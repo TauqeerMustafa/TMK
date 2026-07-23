@@ -1,1 +1,1 @@
-[2026-07-23 14:25:13 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
+[2026-07-23 20:26:03 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
