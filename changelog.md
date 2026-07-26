@@ -1,1 +1,1 @@
-[2026-07-26 20:18:49 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
+[2026-07-26 09:50:42 UTC] feat(go/types): export Task and Handler function signatures
