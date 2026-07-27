@@ -1,1 +1,1 @@
-[2026-07-27 15:19:04 UTC] refactor(go/buffer): use sync.Pool to reuse byte buffers in serialization
+[2026-07-27 10:18:19 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
