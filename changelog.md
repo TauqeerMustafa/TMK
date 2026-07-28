@@ -1,1 +1,1 @@
-[2026-07-28 16:02:43 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
+[2026-07-28 14:43:24 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
