@@ -1,1 +1,1 @@
-[2026-07-27 17:51:33 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
+[2026-07-28 13:33:37 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
