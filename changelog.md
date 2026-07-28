@@ -1,1 +1,1 @@
-[2026-07-28 10:58:00 UTC] docs(arch): update system architecture mermaid diagram and benchmarks
+[2026-07-28 11:53:03 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
