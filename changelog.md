@@ -1,1 +1,1 @@
-[2026-07-28 21:46:38 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
+[2026-07-30 13:51:46 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
