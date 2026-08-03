@@ -1,1 +1,1 @@
-[2026-08-03 14:02:00 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
+[2026-08-03 09:53:33 UTC] feat(dashboard): add latency percentiles p50 p95 p99 visual sparklines
