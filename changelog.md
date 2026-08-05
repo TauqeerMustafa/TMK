@@ -1,1 +1,1 @@
-[2026-08-05 20:43:16 UTC] test(py/cache): add unit tests for TTL boundary conditions and cache misses
+[2026-08-05 16:31:33 UTC] fix(py/pipeline): prevent queue deadlock under burst ingestion
