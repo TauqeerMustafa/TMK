@@ -1,1 +1,1 @@
-[2026-08-07 14:44:39 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
+[2026-08-07 21:46:39 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
