@@ -1,1 +1,1 @@
-[2026-08-12 16:30:59 UTC] chore(deps): update security patches across container base images
+[2026-08-12 17:10:29 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
