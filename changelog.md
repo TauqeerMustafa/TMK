@@ -1,1 +1,1 @@
-[2026-08-12 17:52:56 UTC] feat(ts/client): implement TMKTelemetryClient for cluster health probes
+[2026-08-12 20:29:12 UTC] perf(go/pool): optimize task scheduling mutex contention
