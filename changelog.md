@@ -1,1 +1,1 @@
-[2026-08-12 09:19:32 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
+[2026-08-12 10:42:44 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
