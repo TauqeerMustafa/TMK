@@ -1,1 +1,1 @@
-[2026-08-16 14:03:04 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
+[2026-08-16 20:00:46 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
