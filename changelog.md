@@ -1,1 +1,1 @@
-[2026-08-17 15:54:42 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
+[2026-08-17 10:34:35 UTC] test(e2e): verify end-to-end event stream from gateway to dashboard
