@@ -1,1 +1,1 @@
-[2026-08-18 09:49:41 UTC] feat(go/types): export Task and Handler function signatures
+[2026-08-18 10:01:41 UTC] test(go/engine): add race detector verification for dispatcher pub-sub
