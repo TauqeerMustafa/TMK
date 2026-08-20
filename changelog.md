@@ -1,1 +1,1 @@
-[2026-08-20 11:17:05 UTC] perf(go/stream): benchmark fan-out event routing latency
+[2026-08-20 10:15:50 UTC] devops(ci): configure multi-language matrix workflow for Go, Python, and Node
