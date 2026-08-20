@@ -1,1 +1,1 @@
-[2026-08-20 11:28:59 UTC] test(py/security): add test suite for signature tampering and replay attacks
+[2026-08-20 19:59:01 UTC] perf(memory): reduce heap allocations in high-throughput event buffer
