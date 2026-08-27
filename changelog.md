@@ -1,1 +1,1 @@
-[2026-08-27 16:07:13 UTC] test(py/cache): add unit tests for TTL boundary conditions and cache misses
+[2026-08-27 16:15:20 UTC] fix(go/pool): handle graceful shutdown when task queue is full
