@@ -1,1 +1,1 @@
-[2026-08-28 15:35:31 UTC] refactor(shared): harmonize error schemas across Go and Python endpoints
+[2026-08-28 09:31:59 UTC] refactor(go/engine): decouple context lifecycle from worker daemon
