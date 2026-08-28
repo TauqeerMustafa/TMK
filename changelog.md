@@ -1,1 +1,1 @@
-[2026-08-28 12:02:35 UTC] feat(py/pipeline): add asynchronous telemetry event batching queue
+[2026-08-28 13:23:49 UTC] feat(go/types): export Task and Handler function signatures
