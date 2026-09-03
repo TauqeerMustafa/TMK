@@ -1,1 +1,1 @@
-[2026-09-03 15:27:53 UTC] feat(py/gateway): add request correlation IDs to telemetry logs
+[2026-09-03 12:47:41 UTC] perf(py/cache): speed up eviction scan with secondary O(1) hash map
