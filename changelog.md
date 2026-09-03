@@ -1,1 +1,1 @@
-[2026-09-03 19:59:20 UTC] perf(go/stream): benchmark fan-out event routing latency
+[2026-09-03 20:25:47 UTC] test(py/security): add test suite for signature tampering and replay attacks
