@@ -1,1 +1,1 @@
-[2026-09-09 10:07:23 UTC] devops(ci): configure multi-language matrix workflow for Go, Python, and Node
+[2026-09-09 10:52:01 UTC] fix(go/pool): handle graceful shutdown when task queue is full
