@@ -1,1 +1,1 @@
-[2026-09-16 20:07:39 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
+[2026-09-16 11:45:02 UTC] feat(ts/components): create MetricCard with dynamic status indicators
