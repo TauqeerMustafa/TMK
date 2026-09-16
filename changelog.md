@@ -1,1 +1,1 @@
-[2026-09-16 16:43:07 UTC] feat(py/security): implement constant-time HMAC SHA-256 signature validation
+[2026-09-16 10:29:51 UTC] feat(ts/types): define immutable telemetry metric and health status types
