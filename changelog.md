@@ -1,1 +1,1 @@
-[2026-09-21 16:06:27 UTC] refactor(ts/stream): decouple telemetry web-socket connection lifecycle
+[2026-09-21 13:38:13 UTC] chore(go/deps): upgrade Go runtime toolchain to 1.22.4
