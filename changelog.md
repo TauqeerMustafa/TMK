@@ -1,1 +1,1 @@
-[2026-09-24 10:10:08 UTC] test(py/load): benchmark API gateway throughput under sustained 10k RPS
+[2026-09-24 17:45:15 UTC] feat(ts/dashboard): implement LiveTelemetryStream with reactive event emitter
