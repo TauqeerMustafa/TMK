@@ -610,3 +610,5 @@ l dispatch
 - Pair Extraordinaire Gold tier verification milestone 1
 
 - Pair Extraordinaire Gold tier verification milestone 2
+
+- Pair Extraordinaire Gold tier verification milestone 3
