@@ -580,3 +580,5 @@ l dispatch
 - Opt milestone verification: task 33
 
 - Opt milestone verification: task 34
+
+- Gold tier metric optimization verification: phase 1
