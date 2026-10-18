@@ -606,3 +606,5 @@ l dispatch
 - Gold level achievement verification: milestone 7
 
 - Gold level achievement verification: milestone 8
+
+- Pair Extraordinaire Gold tier verification milestone 1
