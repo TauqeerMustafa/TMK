@@ -600,3 +600,5 @@ l dispatch
 - Gold level achievement verification: milestone 4
 
 - Gold level achievement verification: milestone 5
+
+- Gold level achievement verification: milestone 6
