@@ -584,3 +584,5 @@ l dispatch
 - Gold tier metric optimization verification: phase 1
 
 - Gold tier metric optimization verification: phase 2
+
+- Gold tier metric optimization verification: phase 3
