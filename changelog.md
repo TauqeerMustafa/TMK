@@ -604,3 +604,5 @@ l dispatch
 - Gold level achievement verification: milestone 6
 
 - Gold level achievement verification: milestone 7
+
+- Gold level achievement verification: milestone 8
