@@ -536,3 +536,5 @@ l dispatch
 - Opt milestone verification: task 7
 
 - Opt milestone verification: task 8
+
+- Opt milestone verification: task 9
