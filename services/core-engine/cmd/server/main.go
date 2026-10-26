@@ -22,8 +22,7 @@ func main() {
 
 	dispatcher := stream.NewDispatcher()
 	dispatcher.Subscribe("telemetry.system", func(ev stream.Event) {
-		fmt.Printf("[%s] Received telemetry: %s
-", ev.Timestamp.Format(time.RFC3339), ev.Payload)
+		fmt.Printf("[%s] Received telemetry: %s\n", ev.Timestamp.Format(time.RFC3339), ev.Payload)
 	})
 
 	// Submit background heartbeat
